@@ -1,0 +1,682 @@
+record type,place id,place name,place description,at street abbr,on street abbr,district name,place type
+4,12,SN12,NB D before Owens,AtStreetAbbr12,OnStreetAbbr12,DistrictName12,0
+4,13,SN13,SB D after Owens,AtStreetAbbr13,OnStreetAbbr13,DistrictName13,0
+4,21,SN21,SB H after Lake Mead,AtStreetAbbr21,OnStreetAbbr21,DistrictName21,0
+4,30,SN30,NB H after Washington,AtStreetAbbr30,OnStreetAbbr30,DistrictName30,0
+4,31,SN31,SB H after Washington,AtStreetAbbr31,OnStreetAbbr31,DistrictName31,0
+4,63,SN63,WB Alta after Decatur,AtStreetAbbr63,OnStreetAbbr63,DistrictName63,0
+4,81,SN81,EB Alta after Rainbow,AtStreetAbbr81,OnStreetAbbr81,DistrictName81,0
+4,82,SN82,WB Alta after Rainbow,AtStreetAbbr82,OnStreetAbbr82,DistrictName82,0
+4,83,SN83,EB Alta after Rancho,AtStreetAbbr83,OnStreetAbbr83,DistrictName83,0
+4,84,SN84,WB Alta after Rancho,AtStreetAbbr84,OnStreetAbbr84,DistrictName84,0
+4,167,SN167,WB Bonanza before Las Vegas,AtStreetAbbr167,OnStreetAbbr167,DistrictName167,0
+4,179,SN179,EB Bonanza after Eastern,AtStreetAbbr179,OnStreetAbbr179,DistrictName179,0
+4,180,SN180,WB Bonanza after Eastern,AtStreetAbbr180,OnStreetAbbr180,DistrictName180,0
+4,188,SN188,EB Bonanza after Las Vegas,AtStreetAbbr188,OnStreetAbbr188,DistrictName188,0
+4,190,SN190,EB Bonanza after Lamb,AtStreetAbbr190,OnStreetAbbr190,DistrictName190,0
+4,191,SN191,WB Bonanza after Lamb,AtStreetAbbr191,OnStreetAbbr191,DistrictName191,0
+4,195,SN195,EB Bonanza after Martin L King,AtStreetAbbr195,OnStreetAbbr195,DistrictName195,0
+4,196,SN196,WB Bonanza after Sunny,AtStreetAbbr196,OnStreetAbbr196,DistrictName196,0
+4,210,SN210,WB Bonanza after Nellis,AtStreetAbbr210,OnStreetAbbr210,DistrictName210,0
+4,242,SN242,Railroad Pass On Property Stop,AtStreetAbbr242,OnStreetAbbr242,DistrictName242,0
+4,260,SN260,NB Boulder after Flamingo,AtStreetAbbr260,OnStreetAbbr260,DistrictName260,0
+4,267,SN267,SB Boulder after Greenway,AtStreetAbbr267,OnStreetAbbr267,DistrictName267,0
+4,270,SN270,SB Boulder after Harmon,AtStreetAbbr270,OnStreetAbbr270,DistrictName270,0
+4,276,SN276,NB Boulder after Lake Mead,AtStreetAbbr276,OnStreetAbbr276,DistrictName276,0
+4,278,SN278,NB Boulder after Lamb,AtStreetAbbr278,OnStreetAbbr278,DistrictName278,0
+4,292,SN292,SB Boulder after Nellis,AtStreetAbbr292,OnStreetAbbr292,DistrictName292,0
+4,297,SN297,NB Boulder after Palo Verde,AtStreetAbbr297,OnStreetAbbr297,DistrictName297,0
+4,303,SN303,SB Boulder after Russell,AtStreetAbbr303,OnStreetAbbr303,DistrictName303,0
+4,312,SN312,SB Boulder after Texas,AtStreetAbbr312,OnStreetAbbr312,DistrictName312,0
+4,313,SN313,NB Boulder Hwy after Texas,AtStreetAbbr313,OnStreetAbbr313,DistrictName313,0
+4,314,SN314,NB Boulder after Tropicana,AtStreetAbbr314,OnStreetAbbr314,DistrictName314,0
+4,339,SN339,SB Buchanan after Boulder City Pkwy,AtStreetAbbr339,OnStreetAbbr339,DistrictName339,0
+4,363,SN363,NB Camino Eldorado after Ann,AtStreetAbbr363,OnStreetAbbr363,DistrictName363,0
+4,372,SN372,EB Carey after Civic Center,AtStreetAbbr372,OnStreetAbbr372,DistrictName372,0
+4,400,SN400,WB Carey after Martin L King,AtStreetAbbr400,OnStreetAbbr400,DistrictName400,0
+4,443,SN443,WB Warm Springs before Center,AtStreetAbbr443,OnStreetAbbr443,DistrictName443,0
+4,473,SN473,EB Charleston after Decatur,AtStreetAbbr473,OnStreetAbbr473,DistrictName473,0
+4,474,SN474,WB Charleston after Decatur,AtStreetAbbr474,OnStreetAbbr474,DistrictName474,0
+4,497,SN497,EB Charleston after Maryland,AtStreetAbbr497,OnStreetAbbr497,DistrictName497,0
+4,498,SN498,WB Charleston after Maryland,AtStreetAbbr498,OnStreetAbbr498,DistrictName498,0
+4,503,SN503,EB Charleston after Nellis,AtStreetAbbr503,OnStreetAbbr503,DistrictName503,0
+4,504,SN504,WB Charleston after Nellis,AtStreetAbbr504,OnStreetAbbr504,DistrictName504,0
+4,508,SN508,EB Charleston after Palm,AtStreetAbbr508,OnStreetAbbr508,DistrictName508,0
+4,512,SN512,WB Charleston after Pecos,AtStreetAbbr512,OnStreetAbbr512,DistrictName512,0
+4,515,SN515,EB Charleston after Rainbow,AtStreetAbbr515,OnStreetAbbr515,DistrictName515,0
+4,516,SN516,WB Charleston after Rainbow,AtStreetAbbr516,OnStreetAbbr516,DistrictName516,0
+4,517,SN517,EB Charleston after Rancho,AtStreetAbbr517,OnStreetAbbr517,DistrictName517,0
+4,518,SN518,WB Charleston after Rancho,AtStreetAbbr518,OnStreetAbbr518,DistrictName518,0
+4,556,SN556,EB Cheyenne after Civic Center,AtStreetAbbr556,OnStreetAbbr556,DistrictName556,0
+4,567,SN567,EB Cheyenne after Jones,AtStreetAbbr567,OnStreetAbbr567,DistrictName567,0
+4,573,SN573,EB Cheyenne after Las Vegas,AtStreetAbbr573,OnStreetAbbr573,DistrictName573,0
+4,575,SN575,EB Cheyenne after Martin L King,AtStreetAbbr575,OnStreetAbbr575,DistrictName575,0
+4,576,SN576,WB Cheyenne after Martin L King,AtStreetAbbr576,OnStreetAbbr576,DistrictName576,0
+4,577,SN577,WB Cheyenne after Mary Dee,AtStreetAbbr577,OnStreetAbbr577,DistrictName577,0
+4,585,SN585,WB Cheyenne after Nellis,AtStreetAbbr585,OnStreetAbbr585,DistrictName585,0
+4,588,SN588,EB Cheyenne after Rainbow,AtStreetAbbr588,OnStreetAbbr588,DistrictName588,0
+4,589,SN589,WB Cheyenne after Rainbow,AtStreetAbbr589,OnStreetAbbr589,DistrictName589,0
+4,591,SN591,EB Cheyenne after Rancho,AtStreetAbbr591,OnStreetAbbr591,DistrictName591,0
+4,592,SN592,WB Cheyenne after Rancho,AtStreetAbbr592,OnStreetAbbr592,DistrictName592,0
+4,593,SN593,WB Cheyenne after Sandy,AtStreetAbbr593,OnStreetAbbr593,DistrictName593,0
+4,595,SN595,EB Cheyenne after Simmons,AtStreetAbbr595,OnStreetAbbr595,DistrictName595,0
+4,596,SN596,WB Cheyenne after Simmons,AtStreetAbbr596,OnStreetAbbr596,DistrictName596,0
+4,618,SN618,SB Civic Center after Basswood,AtStreetAbbr618,OnStreetAbbr618,DistrictName618,0
+4,632,SN632,NB Civic Center after Lake Mead,AtStreetAbbr632,OnStreetAbbr632,DistrictName632,0
+4,633,SN633,SB Civic Center after Lake Mead,AtStreetAbbr633,OnStreetAbbr633,DistrictName633,0
+4,655,SN655,NB Campus at CSN Cheyenne Campus,AtStreetAbbr655,OnStreetAbbr655,DistrictName655,0
+4,674,SN674,EB Craig after Lamb,AtStreetAbbr674,OnStreetAbbr674,DistrictName674,0
+4,677,SN677,EB Craig before Las Vegas,AtStreetAbbr677,OnStreetAbbr677,DistrictName677,0
+4,690,SN690,NB Decatur before Alpine,AtStreetAbbr690,OnStreetAbbr690,DistrictName690,0
+4,691,SN691,NB Decatur after Alta,AtStreetAbbr691,OnStreetAbbr691,DistrictName691,0
+4,697,SN697,SB Decatur after Charleston,AtStreetAbbr697,OnStreetAbbr697,DistrictName697,0
+4,698,SN698,NB Decatur after Cheyenne,AtStreetAbbr698,OnStreetAbbr698,DistrictName698,0
+4,718,SN718,NB Decatur after Lake Mead,AtStreetAbbr718,OnStreetAbbr718,DistrictName718,0
+4,719,SN719,SB Decatur after Lake Mead,AtStreetAbbr719,OnStreetAbbr719,DistrictName719,0
+4,737,SN737,NB Decatur after Sahara,AtStreetAbbr737,OnStreetAbbr737,DistrictName737,0
+4,738,SN738,SB Decatur after Sahara,AtStreetAbbr738,OnStreetAbbr738,DistrictName738,0
+4,743,SN743,NB Decatur after Spring Mountain,AtStreetAbbr743,OnStreetAbbr743,DistrictName743,0
+4,744,SN744,SB Decatur after Spring Mountain,AtStreetAbbr744,OnStreetAbbr744,DistrictName744,0
+4,747,SN747,NB Decatur after Tropicana,AtStreetAbbr747,OnStreetAbbr747,DistrictName747,0
+4,754,SN754,NB Decatur after Washington,AtStreetAbbr754,OnStreetAbbr754,DistrictName754,0
+4,755,SN755,SB Decatur after Washington,AtStreetAbbr755,OnStreetAbbr755,DistrictName755,0
+4,765,SN765,NB Lamb after Boulder,AtStreetAbbr765,OnStreetAbbr765,DistrictName765,0
+4,766,SN766,WB Desert Inn after Boulder,AtStreetAbbr766,OnStreetAbbr766,DistrictName766,0
+4,775,SN775,EB Desert Inn after Eastern,AtStreetAbbr775,OnStreetAbbr775,DistrictName775,0
+4,776,SN776,WB Desert Inn after Eastern,AtStreetAbbr776,OnStreetAbbr776,DistrictName776,0
+4,832,SN832,NB Eastern after Bonanza,AtStreetAbbr832,OnStreetAbbr832,DistrictName832,0
+4,833,SN833,SB Eastern after Bonanza,AtStreetAbbr833,OnStreetAbbr833,DistrictName833,0
+4,837,SN837,SB Eastern after Charleston,AtStreetAbbr837,OnStreetAbbr837,DistrictName837,0
+4,842,SN842,NB Eastern after Flamingo,AtStreetAbbr842,OnStreetAbbr842,DistrictName842,0
+4,843,SN843,SB Eastern after Flamingo,AtStreetAbbr843,OnStreetAbbr843,DistrictName843,0
+4,847,SN847,NB Eastern after Fremont,AtStreetAbbr847,OnStreetAbbr847,DistrictName847,0
+4,879,SN879,NB Eastern after Sahara,AtStreetAbbr879,OnStreetAbbr879,DistrictName879,0
+4,880,SN880,SB Eastern after Sahara,AtStreetAbbr880,OnStreetAbbr880,DistrictName880,0
+4,889,SN889,NB Eastern after Sunset,AtStreetAbbr889,OnStreetAbbr889,DistrictName889,0
+4,890,SN890,SB Eastern after Sunset,AtStreetAbbr890,OnStreetAbbr890,DistrictName890,0
+4,894,SN894,NB Eastern after Tropicana,AtStreetAbbr894,OnStreetAbbr894,DistrictName894,0
+4,895,SN895,SB Eastern after Tropicana,AtStreetAbbr895,OnStreetAbbr895,DistrictName895,0
+4,915,SN915,NB Englestad after Recco,AtStreetAbbr915,OnStreetAbbr915,DistrictName915,0
+4,933,SN933,EB Flamingo after Decatur,AtStreetAbbr933,OnStreetAbbr933,DistrictName933,0
+4,934,SN934,WB Flamingo after Decatur,AtStreetAbbr934,OnStreetAbbr934,DistrictName934,0
+4,957,SN957,EB Flamingo after Las Vegas,AtStreetAbbr957,OnStreetAbbr957,DistrictName957,0
+4,958,SN958,WB Flamingo after Las Vegas,AtStreetAbbr958,OnStreetAbbr958,DistrictName958,0
+4,961,SN961,EB Flamingo after Maryland,AtStreetAbbr961,OnStreetAbbr961,DistrictName961,0
+4,962,SN962,WB Flamingo after Maryland,AtStreetAbbr962,OnStreetAbbr962,DistrictName962,0
+4,965,SN965,WB Flamingo after Nellis,AtStreetAbbr965,OnStreetAbbr965,DistrictName965,0
+4,970,SN970,EB Flamingo after Paradise,AtStreetAbbr970,OnStreetAbbr970,DistrictName970,0
+4,971,SN971,WB Flamingo after Paradise,AtStreetAbbr971,OnStreetAbbr971,DistrictName971,0
+4,974,SN974,EB Flamingo after Pecos,AtStreetAbbr974,OnStreetAbbr974,DistrictName974,0
+4,975,SN975,WB Flamingo after Pecos,AtStreetAbbr975,OnStreetAbbr975,DistrictName975,0
+4,978,SN978,EB Flamingo after Rainbow,AtStreetAbbr978,OnStreetAbbr978,DistrictName978,0
+4,989,SN989,WB Flamingo after Spring Leaf,AtStreetAbbr989,OnStreetAbbr989,DistrictName989,0
+4,1024,SN1024,WB Fremont after Eastern,AtStreetAbbr1024,OnStreetAbbr1024,DistrictName1024,0
+4,1031,SN1031,NB Fremont after Sahara,AtStreetAbbr1031,OnStreetAbbr1031,DistrictName1031,0
+4,1069,SN1069,SB Green Valley after Warm Springs,AtStreetAbbr1069,OnStreetAbbr1069,DistrictName1069,0
+4,1078,SN1078,EB Harmon after Boulder,AtStreetAbbr1078,OnStreetAbbr1078,DistrictName1078,0
+4,1136,SN1136,EB Horizon after College,AtStreetAbbr1136,OnStreetAbbr1136,DistrictName1136,0
+4,1137,SN1137,WB Horizon after College,AtStreetAbbr1137,OnStreetAbbr1137,DistrictName1137,0
+4,1176,SN1176,NB Jones after Charleston,AtStreetAbbr1176,OnStreetAbbr1176,DistrictName1176,0
+4,1177,SN1177,SB Jones after Charleston,AtStreetAbbr1177,OnStreetAbbr1177,DistrictName1177,0
+4,1179,SN1179,SB Jones after Cheyenne,AtStreetAbbr1179,OnStreetAbbr1179,DistrictName1179,0
+4,1203,SN1203,NB Jones after Lake Mead,AtStreetAbbr1203,OnStreetAbbr1203,DistrictName1203,0
+4,1204,SN1204,SB Jones after Lake Mead,AtStreetAbbr1204,OnStreetAbbr1204,DistrictName1204,0
+4,1217,SN1217,NB Jones after Sahara,AtStreetAbbr1217,OnStreetAbbr1217,DistrictName1217,0
+4,1218,SN1218,SB Jones after Sahara,AtStreetAbbr1218,OnStreetAbbr1218,DistrictName1218,0
+4,1222,SN1222,NB Jones after Spring Mountain,AtStreetAbbr1222,OnStreetAbbr1222,DistrictName1222,0
+4,1223,SN1223,SB Jones after Spring Mountain,AtStreetAbbr1223,OnStreetAbbr1223,DistrictName1223,0
+4,1227,SN1227,NB Jones after Tropicana,AtStreetAbbr1227,OnStreetAbbr1227,DistrictName1227,0
+4,1237,SN1237,NB Jones after Washington,AtStreetAbbr1237,OnStreetAbbr1237,DistrictName1237,0
+4,1238,SN1238,SB Jones after Washington,AtStreetAbbr1238,OnStreetAbbr1238,DistrictName1238,0
+4,1257,SN1257,NB Koval after Tropicana,AtStreetAbbr1257,OnStreetAbbr1257,DistrictName1257,0
+4,1258,SN1258,SB Koval after Tropicana,AtStreetAbbr1258,OnStreetAbbr1258,DistrictName1258,0
+4,1308,SN1308,NB Las Vegas after Pecos,AtStreetAbbr1308,OnStreetAbbr1308,DistrictName1308,0
+4,1326,SN1326,SB Las Vegas before Washington,AtStreetAbbr1326,OnStreetAbbr1326,DistrictName1326,0
+4,1332,SN1332,NB Las Vegas at the Paris,AtStreetAbbr1332,OnStreetAbbr1332,DistrictName1332,0
+4,1343,SN1343,SB Las Vegas after Charleston,AtStreetAbbr1343,OnStreetAbbr1343,DistrictName1343,0
+4,1344,SN1344,SB LV Blvd at Slots-A-Fun/Circ Circ,AtStreetAbbr1344,OnStreetAbbr1344,DistrictName1344,0
+4,1351,SN1351,SB Las Vegas at Excalibur,AtStreetAbbr1351,OnStreetAbbr1351,DistrictName1351,0
+4,1353,SN1353,NB Las Vegas at The Wynn,AtStreetAbbr1353,OnStreetAbbr1353,DistrictName1353,0
+4,1354,SN1354,SB Las Vegas at Fashion Show Mall,AtStreetAbbr1354,OnStreetAbbr1354,DistrictName1354,0
+4,1358,SN1358,SB LV Blvd at Fremont St Experience,AtStreetAbbr1358,OnStreetAbbr1358,DistrictName1358,0
+4,1363,SN1363,NB Las Vegas at Luxor/Mandalay Bay,AtStreetAbbr1363,OnStreetAbbr1363,DistrictName1363,0
+4,1364,SN1364,SB Las Vegas at Mandalay Bay,AtStreetAbbr1364,OnStreetAbbr1364,DistrictName1364,0
+4,1371,SN1371,NB Las Vegas at MGM/Showcase Mall,AtStreetAbbr1371,OnStreetAbbr1371,DistrictName1371,0
+4,1375,SN1375,SB Las Vegas at Luxor,AtStreetAbbr1375,OnStreetAbbr1375,DistrictName1375,0
+4,1391,SN1391,NB Las Vegas after Sahara,AtStreetAbbr1391,OnStreetAbbr1391,DistrictName1391,0
+4,1409,SN1409,NB Las Vegas after Wigwam,AtStreetAbbr1409,OnStreetAbbr1409,DistrictName1409,0
+4,1410,SN1410,SB Las Vegas before Wigwam,AtStreetAbbr1410,OnStreetAbbr1410,DistrictName1410,0
+4,1444,SN1444,EB Lake Mead after Decatur,AtStreetAbbr1444,OnStreetAbbr1444,DistrictName1444,0
+4,1445,SN1445,WB Lake Mead after Decatur,AtStreetAbbr1445,OnStreetAbbr1445,DistrictName1445,0
+4,1458,SN1458,EB Lake Mead after Las Vegas,AtStreetAbbr1458,OnStreetAbbr1458,DistrictName1458,0
+4,1459,SN1459,WB Lake Mead after Las Vegas,AtStreetAbbr1459,OnStreetAbbr1459,DistrictName1459,0
+4,1473,SN1473,EB Lake Mead after Martin L King,AtStreetAbbr1473,OnStreetAbbr1473,DistrictName1473,0
+4,1474,SN1474,WB Lake Mead after Martin L King,AtStreetAbbr1474,OnStreetAbbr1474,DistrictName1474,0
+4,1486,SN1486,EB Lake Mead after Nellis,AtStreetAbbr1486,OnStreetAbbr1486,DistrictName1486,0
+4,1487,SN1487,WB Lake Mead after Nellis,AtStreetAbbr1487,OnStreetAbbr1487,DistrictName1487,0
+4,1491,SN1491,EB Lake Mead after Pecos,AtStreetAbbr1491,OnStreetAbbr1491,DistrictName1491,0
+4,1492,SN1492,WB Lake Mead after Pecos,AtStreetAbbr1492,OnStreetAbbr1492,DistrictName1492,0
+4,1496,SN1496,WB Lake Mead after Radwick,AtStreetAbbr1496,OnStreetAbbr1496,DistrictName1496,0
+4,1497,SN1497,WB Lake Mead before Rainbow,AtStreetAbbr1497,OnStreetAbbr1497,DistrictName1497,0
+4,1498,SN1498,EB Lake Mead after Rainbow,AtStreetAbbr1498,OnStreetAbbr1498,DistrictName1498,0
+4,1530,SN1530,EB Lake Mead after Boulder,AtStreetAbbr1530,OnStreetAbbr1530,DistrictName1530,0
+4,1563,SN1563,NB Lamb after Charleston,AtStreetAbbr1563,OnStreetAbbr1563,DistrictName1563,0
+4,1564,SN1564,SB Lamb after Charleston,AtStreetAbbr1564,OnStreetAbbr1564,DistrictName1564,0
+4,1571,SN1571,NB Lamb after Craig,AtStreetAbbr1571,OnStreetAbbr1571,DistrictName1571,0
+4,1572,SN1572,SB Lamb after Craig,AtStreetAbbr1572,OnStreetAbbr1572,DistrictName1572,0
+4,1586,SN1586,NB Lamb after Lake Mead,AtStreetAbbr1586,OnStreetAbbr1586,DistrictName1586,0
+4,1587,SN1587,SB Lamb before Lake Mead,AtStreetAbbr1587,OnStreetAbbr1587,DistrictName1587,0
+4,1618,SN1618,WB Lone Mountain after Rancho,AtStreetAbbr1618,OnStreetAbbr1618,DistrictName1618,0
+4,1649,SN1649,NB Martin L King after Cheyenne,AtStreetAbbr1649,OnStreetAbbr1649,DistrictName1649,0
+4,1650,SN1650,SB Martin L King after Cheyenne,AtStreetAbbr1650,OnStreetAbbr1650,DistrictName1650,0
+4,1651,SN1651,NB Camino Al Norte after Craig,AtStreetAbbr1651,OnStreetAbbr1651,DistrictName1651,0
+4,1652,SN1652,SB Martin L King after Craig,AtStreetAbbr1652,OnStreetAbbr1652,DistrictName1652,0
+4,1661,SN1661,NB Martin L King after Lake Mead,AtStreetAbbr1661,OnStreetAbbr1661,DistrictName1661,0
+4,1662,SN1662,SB Martin L King after Lake Mead,AtStreetAbbr1662,OnStreetAbbr1662,DistrictName1662,0
+4,1675,SN1675,NB Martin L King after Washington,AtStreetAbbr1675,OnStreetAbbr1675,DistrictName1675,0
+4,1676,SN1676,SB Martin L King after Washington,AtStreetAbbr1676,OnStreetAbbr1676,DistrictName1676,0
+4,1685,SN1685,SB Main after Bridger,AtStreetAbbr1685,OnStreetAbbr1685,DistrictName1685,0
+4,1718,SN1718,NB Maryland after Bonanza,AtStreetAbbr1718,OnStreetAbbr1718,DistrictName1718,0
+4,1719,SN1719,SB Maryland after Bonanza,AtStreetAbbr1719,OnStreetAbbr1719,DistrictName1719,0
+4,1726,SN1726,NB Maryland before Charleston,AtStreetAbbr1726,OnStreetAbbr1726,DistrictName1726,0
+4,1727,SN1727,SB Maryland after Charleston,AtStreetAbbr1727,OnStreetAbbr1727,DistrictName1727,0
+4,1732,SN1732,SB Maryland after Desert Inn,AtStreetAbbr1732,OnStreetAbbr1732,DistrictName1732,0
+4,1733,SN1733,NB Maryland after Flamingo,AtStreetAbbr1733,OnStreetAbbr1733,DistrictName1733,0
+4,1735,SN1735,SB Maryland after Flamingo,AtStreetAbbr1735,OnStreetAbbr1735,DistrictName1735,0
+4,1763,SN1763,NB Maryland after Sahara,AtStreetAbbr1763,OnStreetAbbr1763,DistrictName1763,0
+4,1764,SN1764,SB Maryland after Sahara,AtStreetAbbr1764,OnStreetAbbr1764,DistrictName1764,0
+4,1766,SN1766,NB Maryland before Desert Inn,AtStreetAbbr1766,OnStreetAbbr1766,DistrictName1766,0
+4,1774,SN1774,NB Maryland before Tropicana,AtStreetAbbr1774,OnStreetAbbr1774,DistrictName1774,0
+4,1775,SN1775,SB Maryland after Tropicana,AtStreetAbbr1775,OnStreetAbbr1775,DistrictName1775,0
+4,1776,SN1776,NB Maryland after Twain,AtStreetAbbr1776,OnStreetAbbr1776,DistrictName1776,0
+4,1785,SN1785,McCarran Airprt Zero Lvl On Proprty,AtStreetAbbr1785,OnStreetAbbr1785,DistrictName1785,0
+4,1793,SN1793,NB McLeod after Sahara,AtStreetAbbr1793,OnStreetAbbr1793,DistrictName1793,0
+4,1794,SN1794,SB McLeod after Sahara,AtStreetAbbr1794,OnStreetAbbr1794,DistrictName1794,0
+4,1819,SN1819,WB Tropicana after Andover,AtStreetAbbr1819,OnStreetAbbr1819,DistrictName1819,0
+4,1847,SN1847,NB Nellis after Bonanza,AtStreetAbbr1847,OnStreetAbbr1847,DistrictName1847,0
+4,1848,SN1848,SB Nellis after Bonanza,AtStreetAbbr1848,OnStreetAbbr1848,DistrictName1848,0
+4,1849,SN1849,NB Nellis after Boulder,AtStreetAbbr1849,OnStreetAbbr1849,DistrictName1849,0
+4,1850,SN1850,SB Nellis after Boulder,AtStreetAbbr1850,OnStreetAbbr1850,DistrictName1850,0
+4,1857,SN1857,NB Nellis after Charleston,AtStreetAbbr1857,OnStreetAbbr1857,DistrictName1857,0
+4,1858,SN1858,SB Nellis after Charleston,AtStreetAbbr1858,OnStreetAbbr1858,DistrictName1858,0
+4,1859,SN1859,NB Nellis after Cheyenne,AtStreetAbbr1859,OnStreetAbbr1859,DistrictName1859,0
+4,1860,SN1860,SB Nellis after Cheyenne,AtStreetAbbr1860,OnStreetAbbr1860,DistrictName1860,0
+4,1862,SN1862,NB Nellis after Desert Inn,AtStreetAbbr1862,OnStreetAbbr1862,DistrictName1862,0
+4,1863,SN1863,SB Nellis after Desert Inn,AtStreetAbbr1863,OnStreetAbbr1863,DistrictName1863,0
+4,1883,SN1883,NB Nellis after Lake Mead,AtStreetAbbr1883,OnStreetAbbr1883,DistrictName1883,0
+4,1884,SN1884,SB Nellis after Lake Mead,AtStreetAbbr1884,OnStreetAbbr1884,DistrictName1884,0
+4,1890,SN1890,NB Nellis after Owens,AtStreetAbbr1890,OnStreetAbbr1890,DistrictName1890,0
+4,1894,SN1894,NB Nellis after Sahara,AtStreetAbbr1894,OnStreetAbbr1894,DistrictName1894,0
+4,1895,SN1895,SB Nellis after Sahara,AtStreetAbbr1895,OnStreetAbbr1895,DistrictName1895,0
+4,1902,SN1902,NB Nellis after Tropicana,AtStreetAbbr1902,OnStreetAbbr1902,DistrictName1902,0
+4,1903,SN1903,SB Nellis after Tropicana,AtStreetAbbr1903,OnStreetAbbr1903,DistrictName1903,0
+4,1915,SN1915,WB Nevada after Elm,AtStreetAbbr1915,OnStreetAbbr1915,DistrictName1915,0
+4,1982,SN1982,EB Owens after N,AtStreetAbbr1982,OnStreetAbbr1982,DistrictName1982,0
+4,1993,SN1993,WB Owens after Civic Center,AtStreetAbbr1993,OnStreetAbbr1993,DistrictName1993,0
+4,1997,SN1997,EB Owens after Eastern,AtStreetAbbr1997,OnStreetAbbr1997,DistrictName1997,0
+4,2004,SN2004,EB Owens before Las Vegas,AtStreetAbbr2004,OnStreetAbbr2004,DistrictName2004,0
+4,2005,SN2005,WB Owens after Las Vegas,AtStreetAbbr2005,OnStreetAbbr2005,DistrictName2005,0
+4,2017,SN2017,WB Owens before Nellis,AtStreetAbbr2017,OnStreetAbbr2017,DistrictName2017,0
+4,2019,SN2019,WB Owens after Nellis,AtStreetAbbr2019,OnStreetAbbr2019,DistrictName2019,0
+4,2024,SN2024,EB Owens after Pecos,AtStreetAbbr2024,OnStreetAbbr2024,DistrictName2024,0
+4,2025,SN2025,WB Owens after Pecos,AtStreetAbbr2025,OnStreetAbbr2025,DistrictName2025,0
+4,2043,SN2043,SB Palm after Charleston,AtStreetAbbr2043,OnStreetAbbr2043,DistrictName2043,0
+4,2059,SN2059,SB Paradise after Desert Inn,AtStreetAbbr2059,OnStreetAbbr2059,DistrictName2059,0
+4,2061,SN2061,SB Paradise after Flamingo,AtStreetAbbr2061,OnStreetAbbr2061,DistrictName2061,0
+4,2069,SN2069,SB Paradise after Sahara,AtStreetAbbr2069,OnStreetAbbr2069,DistrictName2069,0
+4,2072,SN2072,SB Paradise before Tropicana,AtStreetAbbr2072,OnStreetAbbr2072,DistrictName2072,0
+4,2096,SN2096,NB Pecos after Charleston,AtStreetAbbr2096,OnStreetAbbr2096,DistrictName2096,0
+4,2101,SN2101,NB Pecos before Flamingo,AtStreetAbbr2101,OnStreetAbbr2101,DistrictName2101,0
+4,2111,SN2111,NB Pecos after Las Vegas,AtStreetAbbr2111,OnStreetAbbr2111,DistrictName2111,0
+4,2112,SN2112,NB Pecos after Lake Mead,AtStreetAbbr2112,OnStreetAbbr2112,DistrictName2112,0
+4,2113,SN2113,SB Pecos after Lake Mead,AtStreetAbbr2113,OnStreetAbbr2113,DistrictName2113,0
+4,2114,SN2114,SB Pecos after Las Vegas,AtStreetAbbr2114,OnStreetAbbr2114,DistrictName2114,0
+4,2136,SN2136,NB Pecos after Sunset,AtStreetAbbr2136,OnStreetAbbr2136,DistrictName2136,0
+4,2139,SN2139,NB Pecos after Tropicana,AtStreetAbbr2139,OnStreetAbbr2139,DistrictName2139,0
+4,2140,SN2140,SB Pecos after Tropicana,AtStreetAbbr2140,OnStreetAbbr2140,DistrictName2140,0
+4,2181,SN2181,NB Rainbow after Alta,AtStreetAbbr2181,OnStreetAbbr2181,DistrictName2181,0
+4,2182,SN2182,SB Rainbow after Alta,AtStreetAbbr2182,OnStreetAbbr2182,DistrictName2182,0
+4,2186,SN2186,NB Rainbow after Charleston,AtStreetAbbr2186,OnStreetAbbr2186,DistrictName2186,0
+4,2187,SN2187,SB Rainbow after Charleston,AtStreetAbbr2187,OnStreetAbbr2187,DistrictName2187,0
+4,2188,SN2188,NB Rainbow after Cheyenne,AtStreetAbbr2188,OnStreetAbbr2188,DistrictName2188,0
+4,2189,SN2189,SB Rainbow after Cheyenne,AtStreetAbbr2189,OnStreetAbbr2189,DistrictName2189,0
+4,2200,SN2200,NB Rainbow after Flamingo,AtStreetAbbr2200,OnStreetAbbr2200,DistrictName2200,0
+4,2201,SN2201,SB Rainbow after Flamingo,AtStreetAbbr2201,OnStreetAbbr2201,DistrictName2201,0
+4,2210,SN2210,NB Rainbow after Lake Mead,AtStreetAbbr2210,OnStreetAbbr2210,DistrictName2210,0
+4,2211,SN2211,SB Rainbow after Lake Mead,AtStreetAbbr2211,OnStreetAbbr2211,DistrictName2211,0
+4,2228,SN2228,NB Rainbow after Sahara,AtStreetAbbr2228,OnStreetAbbr2228,DistrictName2228,0
+4,2229,SN2229,SB Rainbow after Sahara,AtStreetAbbr2229,OnStreetAbbr2229,DistrictName2229,0
+4,2234,SN2234,NB Rainbow after Spring Mountain,AtStreetAbbr2234,OnStreetAbbr2234,DistrictName2234,0
+4,2235,SN2235,SB Rainbow after Spring Mountain,AtStreetAbbr2235,OnStreetAbbr2235,DistrictName2235,0
+4,2245,SN2245,SB Rainbow after Tropicana,AtStreetAbbr2245,OnStreetAbbr2245,DistrictName2245,0
+4,2252,SN2252,NB Rainbow after Washington,AtStreetAbbr2252,OnStreetAbbr2252,DistrictName2252,0
+4,2253,SN2253,SB Rainbow after Washington,AtStreetAbbr2253,OnStreetAbbr2253,DistrictName2253,0
+4,2263,SN2263,SB Rampart after Cheyenne,AtStreetAbbr2263,OnStreetAbbr2263,DistrictName2263,0
+4,2265,SN2265,NB Rampart after Lake Mead,AtStreetAbbr2265,OnStreetAbbr2265,DistrictName2265,0
+4,2279,SN2279,NB Rancho after Charleston,AtStreetAbbr2279,OnStreetAbbr2279,DistrictName2279,0
+4,2281,SN2281,NB Rancho after Cheyenne,AtStreetAbbr2281,OnStreetAbbr2281,DistrictName2281,0
+4,2282,SN2282,SB Rancho after Cheyenne,AtStreetAbbr2282,OnStreetAbbr2282,DistrictName2282,0
+4,2303,SN2303,NB Rancho after Lake Mead,AtStreetAbbr2303,OnStreetAbbr2303,DistrictName2303,0
+4,2304,SN2304,SB Rancho after Lake Mead,AtStreetAbbr2304,OnStreetAbbr2304,DistrictName2304,0
+4,2306,SN2306,SB Rancho after Lone Mountain,AtStreetAbbr2306,OnStreetAbbr2306,DistrictName2306,0
+4,2333,SN2333,NB Rancho after Washington,AtStreetAbbr2333,OnStreetAbbr2333,DistrictName2333,0
+4,2334,SN2334,SB Rancho after Washington,AtStreetAbbr2334,OnStreetAbbr2334,DistrictName2334,0
+4,2374,SN2374,EB Rossmoyne after Revere,AtStreetAbbr2374,OnStreetAbbr2374,DistrictName2374,0
+4,2402,SN2402,EB Sahara after Decatur,AtStreetAbbr2402,OnStreetAbbr2402,DistrictName2402,0
+4,2404,SN2404,WB Sahara after Decatur,AtStreetAbbr2404,OnStreetAbbr2404,DistrictName2404,0
+4,2417,SN2417,WB Sahara after Fremont,AtStreetAbbr2417,OnStreetAbbr2417,DistrictName2417,0
+4,2418,SN2418,EB Sahara after Fort Apache,AtStreetAbbr2418,OnStreetAbbr2418,DistrictName2418,0
+4,2419,SN2419,EB Sahara before Boulder,AtStreetAbbr2419,OnStreetAbbr2419,DistrictName2419,0
+4,2439,SN2439,EB Sahara after Maryland,AtStreetAbbr2439,OnStreetAbbr2439,DistrictName2439,0
+4,2441,SN2441,WB Sahara after Maryland,AtStreetAbbr2441,OnStreetAbbr2441,DistrictName2441,0
+4,2447,SN2447,EB Sahara after Nellis,AtStreetAbbr2447,OnStreetAbbr2447,DistrictName2447,0
+4,2453,SN2453,EB Sahara before Rancho,AtStreetAbbr2453,OnStreetAbbr2453,DistrictName2453,0
+4,2456,SN2456,EB Sahara after Rainbow,AtStreetAbbr2456,OnStreetAbbr2456,DistrictName2456,0
+4,2457,SN2457,WB Sahara after Rainbow,AtStreetAbbr2457,OnStreetAbbr2457,DistrictName2457,0
+4,2458,SN2458,WB Sahara after Rancho,AtStreetAbbr2458,OnStreetAbbr2458,DistrictName2458,0
+4,2473,SN2473,WB Sahara after Sloan,AtStreetAbbr2473,OnStreetAbbr2473,DistrictName2473,0
+4,2506,SN2506,EB Sands after Las Vegas,AtStreetAbbr2506,OnStreetAbbr2506,DistrictName2506,0
+4,2524,SN2524,SB Simmons after Craig,AtStreetAbbr2524,OnStreetAbbr2524,DistrictName2524,0
+4,2539,SN2539,WB Smoke Ranch after Rainbow,AtStreetAbbr2539,OnStreetAbbr2539,DistrictName2539,0
+4,2558,SN2558,EB Spring Mountain after Decatur,AtStreetAbbr2558,OnStreetAbbr2558,DistrictName2558,0
+4,2559,SN2559,WB Spring Mountain after Decatur,AtStreetAbbr2559,OnStreetAbbr2559,DistrictName2559,0
+4,2572,SN2572,WB Spring Mountain after Las Vegas,AtStreetAbbr2572,OnStreetAbbr2572,DistrictName2572,0
+4,2579,SN2579,EB Spring Mountain after Rainbow,AtStreetAbbr2579,OnStreetAbbr2579,DistrictName2579,0
+4,2580,SN2580,WB Spring Mountain after Rainbow,AtStreetAbbr2580,OnStreetAbbr2580,DistrictName2580,0
+4,2605,SN2605,NB Stephanie after Sunset,AtStreetAbbr2605,OnStreetAbbr2605,DistrictName2605,0
+4,2606,SN2606,SB Stephanie after Sunset,AtStreetAbbr2606,OnStreetAbbr2606,DistrictName2606,0
+4,2621,SN2621,WB Stewart after 6th,AtStreetAbbr2621,OnStreetAbbr2621,DistrictName2621,0
+4,2630,SN2630,EB Stewart after Eastern,AtStreetAbbr2630,OnStreetAbbr2630,DistrictName2630,0
+4,2631,SN2631,WB Stewart after Eastern,AtStreetAbbr2631,OnStreetAbbr2631,DistrictName2631,0
+4,2644,SN2644,EB Stewart after Nellis,AtStreetAbbr2644,OnStreetAbbr2644,DistrictName2644,0
+4,2645,SN2645,WB Stewart after Nellis,AtStreetAbbr2645,OnStreetAbbr2645,DistrictName2645,0
+4,2648,SN2648,EB Stewart after Pecos,AtStreetAbbr2648,OnStreetAbbr2648,DistrictName2648,0
+4,2649,SN2649,WB Stewart after Pecos,AtStreetAbbr2649,OnStreetAbbr2649,DistrictName2649,0
+4,2670,SN2670,EB Sunset after Eastern,AtStreetAbbr2670,OnStreetAbbr2670,DistrictName2670,0
+4,2671,SN2671,WB Sunset after Eastern,AtStreetAbbr2671,OnStreetAbbr2671,DistrictName2671,0
+4,2680,SN2680,EB Sunset after Green Valley,AtStreetAbbr2680,OnStreetAbbr2680,DistrictName2680,0
+4,2681,SN2681,WB Sunset after Green Valley,AtStreetAbbr2681,OnStreetAbbr2681,DistrictName2681,0
+4,2694,SN2694,EB Sunset after Pecos,AtStreetAbbr2694,OnStreetAbbr2694,DistrictName2694,0
+4,2704,SN2704,WB Sunset after Stephanie,AtStreetAbbr2704,OnStreetAbbr2704,DistrictName2704,0
+4,2705,SN2705,EB Sunset before Stephanie,AtStreetAbbr2705,OnStreetAbbr2705,DistrictName2705,0
+4,2717,SN2717,NB University Ctr after Flamingo,AtStreetAbbr2717,OnStreetAbbr2717,DistrictName2717,0
+4,2725,SN2725,NB University Ctr after Tropicana,AtStreetAbbr2725,OnStreetAbbr2725,DistrictName2725,0
+4,2733,SN2733,NB Tenaya before Cheyenne,AtStreetAbbr2733,OnStreetAbbr2733,DistrictName2733,0
+4,2758,SN2758,NB Torrey Pines after Lake Mead,AtStreetAbbr2758,OnStreetAbbr2758,DistrictName2758,0
+4,2759,SN2759,SB Torrey Pines after Lake Mead,AtStreetAbbr2759,OnStreetAbbr2759,DistrictName2759,0
+4,2770,SN2770,NB Town Ctr before Covington Cross,AtStreetAbbr2770,OnStreetAbbr2770,DistrictName2770,0
+4,2793,SN2793,EB Tropicana before Decatur,AtStreetAbbr2793,OnStreetAbbr2793,DistrictName2793,0
+4,2795,SN2795,WB Tropicana after Decatur,AtStreetAbbr2795,OnStreetAbbr2795,DistrictName2795,0
+4,2812,SN2812,EB Tropicana after Las Vegas,AtStreetAbbr2812,OnStreetAbbr2812,DistrictName2812,0
+4,2813,SN2813,WB Tropicana after Las Vegas,AtStreetAbbr2813,OnStreetAbbr2813,DistrictName2813,0
+4,2815,SN2815,EB Tropicana after Maryland,AtStreetAbbr2815,OnStreetAbbr2815,DistrictName2815,0
+4,2816,SN2816,WB Tropicana after Maryland,AtStreetAbbr2816,OnStreetAbbr2816,DistrictName2816,0
+4,2827,SN2827,EB Tropicana after Nellis,AtStreetAbbr2827,OnStreetAbbr2827,DistrictName2827,0
+4,2828,SN2828,WB Tropicana after Nellis,AtStreetAbbr2828,OnStreetAbbr2828,DistrictName2828,0
+4,2835,SN2835,EB Tropicana after Pecos,AtStreetAbbr2835,OnStreetAbbr2835,DistrictName2835,0
+4,2836,SN2836,WB Tropicana after Pecos,AtStreetAbbr2836,OnStreetAbbr2836,DistrictName2836,0
+4,2838,SN2838,EB Tropicana after Rainbow,AtStreetAbbr2838,OnStreetAbbr2838,DistrictName2838,0
+4,2839,SN2839,WB Tropicana after Rainbow,AtStreetAbbr2839,OnStreetAbbr2839,DistrictName2839,0
+4,2879,SN2879,WB Twain after Maryland,AtStreetAbbr2879,OnStreetAbbr2879,DistrictName2879,0
+4,2893,SN2893,NB Utah before Northridge,AtStreetAbbr2893,OnStreetAbbr2893,DistrictName2893,0
+4,2919,SN2919,NB Valley View after Charleston,AtStreetAbbr2919,OnStreetAbbr2919,DistrictName2919,0
+4,2920,SN2920,SB Valley View after Charleston,AtStreetAbbr2920,OnStreetAbbr2920,DistrictName2920,0
+4,2932,SN2932,SB Valley View after Meadows,AtStreetAbbr2932,OnStreetAbbr2932,DistrictName2932,0
+4,2937,SN2937,NB Valley View after Sahara,AtStreetAbbr2937,OnStreetAbbr2937,DistrictName2937,0
+4,2944,SN2944,NB Valley View after Spring Mtn,AtStreetAbbr2944,OnStreetAbbr2944,DistrictName2944,0
+4,2945,SN2945,SB Valley View after Spring Mtn,AtStreetAbbr2945,OnStreetAbbr2945,DistrictName2945,0
+4,2964,SN2964,EB Vegas after Decatur,AtStreetAbbr2964,OnStreetAbbr2964,DistrictName2964,0
+4,2965,SN2965,WB Vegas after Decatur,AtStreetAbbr2965,OnStreetAbbr2965,DistrictName2965,0
+4,2972,SN2972,WB Vegas after Martin L King,AtStreetAbbr2972,OnStreetAbbr2972,DistrictName2972,0
+4,2978,SN2978,EB Vegas before Rainbow,AtStreetAbbr2978,OnStreetAbbr2978,DistrictName2978,0
+4,2979,SN2979,WB Vegas before Rainbow,AtStreetAbbr2979,OnStreetAbbr2979,DistrictName2979,0
+4,2980,SN2980,EB Vegas after Rancho,AtStreetAbbr2980,OnStreetAbbr2980,DistrictName2980,0
+4,2981,SN2981,WB Vegas after Rancho,AtStreetAbbr2981,OnStreetAbbr2981,DistrictName2981,0
+4,3029,SN3029,EB Warm Sprngs at LV Prm Outlets-So,AtStreetAbbr3029,OnStreetAbbr3029,DistrictName3029,0
+4,3036,SN3036,EB Warm Springs after Eastern,AtStreetAbbr3036,OnStreetAbbr3036,DistrictName3036,0
+4,3037,SN3037,WB Warm Springs after Eastern,AtStreetAbbr3037,OnStreetAbbr3037,DistrictName3037,0
+4,3040,SN3040,EB Warm Springs after Green Valley,AtStreetAbbr3040,OnStreetAbbr3040,DistrictName3040,0
+4,3041,SN3041,WB Warm Springs after Green Valley,AtStreetAbbr3041,OnStreetAbbr3041,DistrictName3041,0
+4,3051,SN3051,EB Warm Springs after Paradise,AtStreetAbbr3051,OnStreetAbbr3051,DistrictName3051,0
+4,3052,SN3052,WB Warm Springs after Paradise,AtStreetAbbr3052,OnStreetAbbr3052,DistrictName3052,0
+4,3061,SN3061,EB Warm Springs after Stephanie,AtStreetAbbr3061,OnStreetAbbr3061,DistrictName3061,0
+4,3062,SN3062,WB Warm Springs after Stephanie,AtStreetAbbr3062,OnStreetAbbr3062,DistrictName3062,0
+4,3090,SN3090,WB Washington before Decatur,AtStreetAbbr3090,OnStreetAbbr3090,DistrictName3090,0
+4,3091,SN3091,EB Washington after Decatur,AtStreetAbbr3091,OnStreetAbbr3091,DistrictName3091,0
+4,3105,SN3105,EB Washington after Jones,AtStreetAbbr3105,OnStreetAbbr3105,DistrictName3105,0
+4,3106,SN3106,WB Washington after Jones,AtStreetAbbr3106,OnStreetAbbr3106,DistrictName3106,0
+4,3111,SN3111,EB Washington after Martin L King,AtStreetAbbr3111,OnStreetAbbr3111,DistrictName3111,0
+4,3112,SN3112,WB Washington after Martin L King,AtStreetAbbr3112,OnStreetAbbr3112,DistrictName3112,0
+4,3123,SN3123,EB Washington after Nellis,AtStreetAbbr3123,OnStreetAbbr3123,DistrictName3123,0
+4,3124,SN3124,WB Washington after Nellis,AtStreetAbbr3124,OnStreetAbbr3124,DistrictName3124,0
+4,3128,SN3128,EB Washington after Pecos,AtStreetAbbr3128,OnStreetAbbr3128,DistrictName3128,0
+4,3129,SN3129,WB Washington after Pecos,AtStreetAbbr3129,OnStreetAbbr3129,DistrictName3129,0
+4,3131,SN3131,EB Washington after Rainbow,AtStreetAbbr3131,OnStreetAbbr3131,DistrictName3131,0
+4,3132,SN3132,EB Washington after Rancho,AtStreetAbbr3132,OnStreetAbbr3132,DistrictName3132,0
+4,3133,SN3133,WB Washington before Rancho,AtStreetAbbr3133,OnStreetAbbr3133,DistrictName3133,0
+4,3142,SN3142,WB Washington before Rainbow,AtStreetAbbr3142,OnStreetAbbr3142,DistrictName3142,0
+4,3217,SN3217,NB Rainbow after Tropicana,AtStreetAbbr3217,OnStreetAbbr3217,DistrictName3217,0
+4,3226,SN3226,SB Decatur after Tropicana,AtStreetAbbr3226,OnStreetAbbr3226,DistrictName3226,0
+4,3262,SN3262,SB Eastern after Serene,AtStreetAbbr3262,OnStreetAbbr3262,DistrictName3262,0
+4,3263,SN3263,NB Pecos after Windmill,AtStreetAbbr3263,OnStreetAbbr3263,DistrictName3263,0
+4,3274,SN3274,SB Pecos after Craig,AtStreetAbbr3274,OnStreetAbbr3274,DistrictName3274,0
+4,3301,SN3301,NB Green Valley after Warm Springs,AtStreetAbbr3301,OnStreetAbbr3301,DistrictName3301,0
+4,3369,SN3369,WB Sahara after Fort Apache,AtStreetAbbr3369,OnStreetAbbr3369,DistrictName3369,0
+4,3379,SN3379,WB Sahara after Nellis,AtStreetAbbr3379,OnStreetAbbr3379,DistrictName3379,0
+4,3399,SN3399,NB Sloan after Sahara,AtStreetAbbr3399,OnStreetAbbr3399,DistrictName3399,0
+4,3419,SN3419,WB Bonanza after Ute,AtStreetAbbr3419,OnStreetAbbr3419,DistrictName3419,0
+4,3470,SN3470,WB Cheyenne after Durango,AtStreetAbbr3470,OnStreetAbbr3470,DistrictName3470,0
+4,3502,SN3502,EB Craig after Pecos,AtStreetAbbr3502,OnStreetAbbr3502,DistrictName3502,0
+4,3508,SN3508,WB Craig after Lamb,AtStreetAbbr3508,OnStreetAbbr3508,DistrictName3508,0
+4,3509,SN3509,WB Craig before Mitchell,AtStreetAbbr3509,OnStreetAbbr3509,DistrictName3509,0
+4,3590,SN3590,SB Las Vegas at Bellagio,AtStreetAbbr3590,OnStreetAbbr3590,DistrictName3590,0
+4,3617,SN3617,SB Eastern after Pebble,AtStreetAbbr3617,OnStreetAbbr3617,DistrictName3617,0
+4,3620,SN3620,EB Charleston after Fort Apache,AtStreetAbbr3620,OnStreetAbbr3620,DistrictName3620,0
+4,3655,SN3655,NB Eastern after Pebble,AtStreetAbbr3655,OnStreetAbbr3655,DistrictName3655,0
+4,3681,SN3681,EB Spring Mountain after Durango,AtStreetAbbr3681,OnStreetAbbr3681,DistrictName3681,0
+4,3689,SN3689,SB Civic Center before Cope,AtStreetAbbr3689,OnStreetAbbr3689,DistrictName3689,0
+4,3692,SN3692,EB Charleston after Sloan,AtStreetAbbr3692,OnStreetAbbr3692,DistrictName3692,0
+4,3775,SN3775,WB Charleston after Rampart,AtStreetAbbr3775,OnStreetAbbr3775,DistrictName3775,0
+4,3863,SN3863,NB Durango after Tropicana,AtStreetAbbr3863,OnStreetAbbr3863,DistrictName3863,0
+4,3867,SN3867,EB Flamingo after Durango,AtStreetAbbr3867,OnStreetAbbr3867,DistrictName3867,0
+4,3872,SN3872,EB Cheyenne before Nellis,AtStreetAbbr3872,OnStreetAbbr3872,DistrictName3872,0
+4,3940,SN3940,WB Lake Mead after Simmons,AtStreetAbbr3940,OnStreetAbbr3940,DistrictName3940,0
+4,3943,SN3943,WB Craig after Losee,AtStreetAbbr3943,OnStreetAbbr3943,DistrictName3943,0
+4,3948,SN3948,WB Craig after Camino Al Norte,AtStreetAbbr3948,OnStreetAbbr3948,DistrictName3948,0
+4,3951,SN3951,WB Craig after Simmons,AtStreetAbbr3951,OnStreetAbbr3951,DistrictName3951,0
+4,3956,SN3956,WB Craig after Decatur,AtStreetAbbr3956,OnStreetAbbr3956,DistrictName3956,0
+4,3970,SN3970,EB Craig after Rancho,AtStreetAbbr3970,OnStreetAbbr3970,DistrictName3970,0
+4,3971,SN3971,EB Craig after Decatur,AtStreetAbbr3971,OnStreetAbbr3971,DistrictName3971,0
+4,3976,SN3976,EB Craig after Martin L King,AtStreetAbbr3976,OnStreetAbbr3976,DistrictName3976,0
+4,3981,SN3981,EB Craig after Losee,AtStreetAbbr3981,OnStreetAbbr3981,DistrictName3981,0
+4,3998,SN3998,SB Pecos before Sunset,AtStreetAbbr3998,OnStreetAbbr3998,DistrictName3998,0
+4,4003,SN4003,SB Pecos after Windmill,AtStreetAbbr4003,OnStreetAbbr4003,DistrictName4003,0
+4,4026,SN4026,WB Ann after Camino Eldorado,AtStreetAbbr4026,OnStreetAbbr4026,DistrictName4026,0
+4,4058,SN4058,EB Desert Inn after Fort Apache,AtStreetAbbr4058,OnStreetAbbr4058,DistrictName4058,0
+4,4064,SN4064,NB Paradise after Desert Inn,AtStreetAbbr4064,OnStreetAbbr4064,DistrictName4064,0
+4,4092,SN4092,SB Gr Centr at LV Prem Outlets-Nort,AtStreetAbbr4092,OnStreetAbbr4092,DistrictName4092,0
+4,4172,SN4172,NB Las Vegas at Las Vegas Golf,AtStreetAbbr4172,OnStreetAbbr4172,DistrictName4172,0
+4,4183,SN4183,NB Las Vegas after Washington,AtStreetAbbr4183,OnStreetAbbr4183,DistrictName4183,0
+4,4186,SN4186,NB Boulder before Russell,AtStreetAbbr4186,OnStreetAbbr4186,DistrictName4186,0
+4,4188,SN4188,EB Russell after Valley View,AtStreetAbbr4188,OnStreetAbbr4188,DistrictName4188,0
+4,4225,SN4225,WB Ann after Decatur,AtStreetAbbr4225,OnStreetAbbr4225,DistrictName4225,0
+4,4229,SN4229,NB Village Park after Paseo Verde,AtStreetAbbr4229,OnStreetAbbr4229,DistrictName4229,0
+4,4275,SN4275,WB Sky Pointe after John Herbert,AtStreetAbbr4275,OnStreetAbbr4275,DistrictName4275,0
+4,4288,SN4288,SB Las Vegas after Craig,AtStreetAbbr4288,OnStreetAbbr4288,DistrictName4288,0
+4,4294,SN4294,SB Las Vegas after Pecos,AtStreetAbbr4294,OnStreetAbbr4294,DistrictName4294,0
+4,4299,SN4299,SB Las Vegas after Town Square,AtStreetAbbr4299,OnStreetAbbr4299,DistrictName4299,0
+4,4351,SN4351,NB Paradise before Sahara,AtStreetAbbr4351,OnStreetAbbr4351,DistrictName4351,0
+4,4352,SN4352,NB Hollywood after Lake Mead,AtStreetAbbr4352,OnStreetAbbr4352,DistrictName4352,0
+4,4427,SN4427,NB Jones after Cheyenne,AtStreetAbbr4427,OnStreetAbbr4427,DistrictName4427,0
+4,4442,SN4442,SB Simmons before Cheyenne,AtStreetAbbr4442,OnStreetAbbr4442,DistrictName4442,0
+4,4450,SN4450,NB Rancho after Lone Mountain,AtStreetAbbr4450,OnStreetAbbr4450,DistrictName4450,0
+4,4483,SN4483,WB Horizon Ridge after Eastern,AtStreetAbbr4483,OnStreetAbbr4483,DistrictName4483,0
+4,4487,SN4487,SB Buffalo after Cheyenne,AtStreetAbbr4487,OnStreetAbbr4487,DistrictName4487,0
+4,5051,SN5051,SB Las Vegas before Lake Mead,AtStreetAbbr5051,OnStreetAbbr5051,DistrictName5051,0
+4,5052,SN5052,NB Las Vegas after Lake Mead,AtStreetAbbr5052,OnStreetAbbr5052,DistrictName5052,0
+4,5067,SN5067,EB Anne after Simmons,AtStreetAbbr5067,OnStreetAbbr5067,DistrictName5067,0
+4,5117,SN5117,SB Fort Apache after Charleston,AtStreetAbbr5117,OnStreetAbbr5117,DistrictName5117,0
+4,5139,SN5139,NB Durango after Flamingo,AtStreetAbbr5139,OnStreetAbbr5139,DistrictName5139,0
+4,5164,SN5164,NB Durango after Spring Mountain,AtStreetAbbr5164,OnStreetAbbr5164,DistrictName5164,0
+4,5169,SN5169,NB Fort Apache after Sahara,AtStreetAbbr5169,OnStreetAbbr5169,DistrictName5169,0
+4,5203,SN5203,WB Farm after Tule Springs,AtStreetAbbr5203,OnStreetAbbr5203,DistrictName5203,0
+4,5235,SN5235,SB Las Vegas after Silverado Ranch,AtStreetAbbr5235,OnStreetAbbr5235,DistrictName5235,0
+4,5277,SN5277,SB Gibson after Mary Crest,AtStreetAbbr5277,OnStreetAbbr5277,DistrictName5277,0
+4,5278,SN5278,SB Gibson after Las Palmas Entrada,AtStreetAbbr5278,OnStreetAbbr5278,DistrictName5278,0
+4,5283,SN5283,NB Stephanie after Horizon Ridge,AtStreetAbbr5283,OnStreetAbbr5283,DistrictName5283,0
+4,5326,SN5326,EB American Pacific after Stephanie,AtStreetAbbr5326,OnStreetAbbr5326,DistrictName5326,0
+4,5387,SN5387,WB Lake Mead after Rampart,AtStreetAbbr5387,OnStreetAbbr5387,DistrictName5387,0
+4,5407,SN5407,NB Decatur after Craig,AtStreetAbbr5407,OnStreetAbbr5407,DistrictName5407,0
+4,5408,SN5408,NB Decatur after Ann,AtStreetAbbr5408,OnStreetAbbr5408,DistrictName5408,0
+4,5409,SN5409,SB Decatur after Craig,AtStreetAbbr5409,OnStreetAbbr5409,DistrictName5409,0
+4,5410,SN5410,SB Camino Al Norte after Ann,AtStreetAbbr5410,OnStreetAbbr5410,DistrictName5410,0
+4,5411,SN5411,WB Ann after Rainbow,AtStreetAbbr5411,OnStreetAbbr5411,DistrictName5411,0
+4,5416,SN5416,EB Farm after Tule Springs,AtStreetAbbr5416,OnStreetAbbr5416,DistrictName5416,0
+4,5419,SN5419,SB Whitney Ranch after Russell,AtStreetAbbr5419,OnStreetAbbr5419,DistrictName5419,0
+4,5422,SN5422,SB Maryland after Silverado Ranch,AtStreetAbbr5422,OnStreetAbbr5422,DistrictName5422,0
+4,5423,SN5423,EB Lake Mead after Fiesta Henderson,AtStreetAbbr5423,OnStreetAbbr5423,DistrictName5423,0
+4,5424,SN5424,WB Lk Mead before Fiesta Henderson,AtStreetAbbr5424,OnStreetAbbr5424,DistrictName5424,0
+4,5427,SN5427,SB Simmons before Lake Mead,AtStreetAbbr5427,OnStreetAbbr5427,DistrictName5427,0
+4,5428,SN5428,NB Simmons after Lake Mead,AtStreetAbbr5428,OnStreetAbbr5428,DistrictName5428,0
+4,5432,SN5432,SB Decatur after Ann,AtStreetAbbr5432,OnStreetAbbr5432,DistrictName5432,0
+4,5433,SN5433,SB Decatur after Rome,AtStreetAbbr5433,OnStreetAbbr5433,DistrictName5433,0
+4,5435,SN5435,NB Simmons after Craig,AtStreetAbbr5435,OnStreetAbbr5435,DistrictName5435,0
+4,5438,SN5438,SB Rancho after Charleston,AtStreetAbbr5438,OnStreetAbbr5438,DistrictName5438,0
+4,5441,SN5441,EB Lone Mountain before Rancho,AtStreetAbbr5441,OnStreetAbbr5441,DistrictName5441,0
+4,5442,SN5442,EB Warm Springs after Las Vegas,AtStreetAbbr5442,OnStreetAbbr5442,DistrictName5442,0
+4,5448,SN5448,EB Warm Springs after Rainbow,AtStreetAbbr5448,OnStreetAbbr5448,DistrictName5448,0
+4,5449,SN5449,NB Buffalo after Patrick,AtStreetAbbr5449,OnStreetAbbr5449,DistrictName5449,0
+4,5458,SN5458,EB Vegas Valley before Hollywood,AtStreetAbbr5458,OnStreetAbbr5458,DistrictName5458,0
+4,5461,SN5461,SB Casino Center before Fremont,AtStreetAbbr5461,OnStreetAbbr5461,DistrictName5461,0
+4,5464,SN5464,NB Casino Center before Garces,AtStreetAbbr5464,OnStreetAbbr5464,DistrictName5464,0
+4,5465,SN5465,SB Casino Center at Garces,AtStreetAbbr5465,OnStreetAbbr5465,DistrictName5465,0
+4,5467,SN5467,NB Casino Center at Coolidge,AtStreetAbbr5467,OnStreetAbbr5467,DistrictName5467,0
+4,5474,SN5474,EB Ace before Grand Montecito,AtStreetAbbr5474,OnStreetAbbr5474,DistrictName5474,0
+4,5475,SN5475,WB Ace after Grand Montecito,AtStreetAbbr5475,OnStreetAbbr5475,DistrictName5475,0
+4,5477,SN5477,NB Rainbow after Badura,AtStreetAbbr5477,OnStreetAbbr5477,DistrictName5477,0
+4,5479,SN5479,NB Gr Centr at LV Prem Outlets-Nort,AtStreetAbbr5479,OnStreetAbbr5479,DistrictName5479,0
+4,5480,SN5480,EB Vegas Valley after Nellis,AtStreetAbbr5480,OnStreetAbbr5480,DistrictName5480,0
+4,5481,SN5481,WB Vegas Valley after Nellis,AtStreetAbbr5481,OnStreetAbbr5481,DistrictName5481,0
+4,5525,SN5525,SB Decatur before Cheyenne,AtStreetAbbr5525,OnStreetAbbr5525,DistrictName5525,0
+4,5545,SN5545,EB Ann after Drexel,AtStreetAbbr5545,OnStreetAbbr5545,DistrictName5545,0
+4,5552,SN5552,WB Ann after Eifel Tower,AtStreetAbbr5552,OnStreetAbbr5552,DistrictName5552,0
+4,5553,SN5553,SB Centennial Center after Tropical,AtStreetAbbr5553,OnStreetAbbr5553,DistrictName5553,0
+4,5556,SN5556,NB Centennial Center after Azure,AtStreetAbbr5556,OnStreetAbbr5556,DistrictName5556,0
+4,5607,SN5607,EB Silverado Ranch after Las Vegas,AtStreetAbbr5607,OnStreetAbbr5607,DistrictName5607,0
+4,5646,SN5646,SB Rancho before Sahara,AtStreetAbbr5646,OnStreetAbbr5646,DistrictName5646,0
+4,5706,SN5706,NB Green Valley after Paseo Verde,AtStreetAbbr5706,OnStreetAbbr5706,DistrictName5706,0
+4,5712,SN5712,EB Ann after Camino Al Norte,AtStreetAbbr5712,OnStreetAbbr5712,DistrictName5712,0
+4,5721,SN5721,WB Russell after Whitney Ranch,AtStreetAbbr5721,OnStreetAbbr5721,DistrictName5721,0
+4,5725,SN5725,CSN Hend Campus On Property Stop,AtStreetAbbr5725,OnStreetAbbr5725,DistrictName5725,0
+4,5727,SN5727,EB Tropicana before Durango,AtStreetAbbr5727,OnStreetAbbr5727,DistrictName5727,0
+4,5728,SN5728,WB Tropicana after Durango,AtStreetAbbr5728,OnStreetAbbr5728,DistrictName5728,0
+4,5730,SN5730,NB Grand Canyon before Rochelle,AtStreetAbbr5730,OnStreetAbbr5730,DistrictName5730,0
+4,5731,SN5731,WB Cheyenne after Metro Academy,AtStreetAbbr5731,OnStreetAbbr5731,DistrictName5731,0
+4,5740,SN5740,WB Flamingo after Durango,AtStreetAbbr5740,OnStreetAbbr5740,DistrictName5740,0
+4,5745,SN5745,WB Tropicana after Fort Apache,AtStreetAbbr5745,OnStreetAbbr5745,DistrictName5745,0
+4,5756,SN5756,EB Tropicana after Fort Apache,AtStreetAbbr5756,OnStreetAbbr5756,DistrictName5756,0
+4,5764,SN5764,SB Fort Apache after Flamingo,AtStreetAbbr5764,OnStreetAbbr5764,DistrictName5764,0
+4,5783,SN5783,SB Durango after Flamingo,AtStreetAbbr5783,OnStreetAbbr5783,DistrictName5783,0
+4,5850,SN5850,SB Rampart after Lake Mead,AtStreetAbbr5850,OnStreetAbbr5850,DistrictName5850,0
+4,5854,SN5854,SB College after Horizon,AtStreetAbbr5854,OnStreetAbbr5854,DistrictName5854,0
+4,5857,SN5857,NB Rampart after Charleston,AtStreetAbbr5857,OnStreetAbbr5857,DistrictName5857,0
+4,5858,SN5858,EB Elkhorn after Aliante,AtStreetAbbr5858,OnStreetAbbr5858,DistrictName5858,0
+4,5859,SN5859,SB Simmons after Ann,AtStreetAbbr5859,OnStreetAbbr5859,DistrictName5859,0
+4,5862,SN5862,NB Simmons after Ann,AtStreetAbbr5862,OnStreetAbbr5862,DistrictName5862,0
+4,5863,SN5863,NB Valley View before U.S. 95,AtStreetAbbr5863,OnStreetAbbr5863,DistrictName5863,0
+4,5864,SN5864,SB Valley View before Meadows,AtStreetAbbr5864,OnStreetAbbr5864,DistrictName5864,0
+4,5866,SN5866,WB Meadows after Valley View,AtStreetAbbr5866,OnStreetAbbr5866,DistrictName5866,0
+4,5867,SN5867,WB Silverado Ranch after Maryland,AtStreetAbbr5867,OnStreetAbbr5867,DistrictName5867,0
+4,5880,SN5880,South Point Hotel On Property Stop,AtStreetAbbr5880,OnStreetAbbr5880,DistrictName5880,0
+4,5885,SN5885,EB Alta after Rampart,AtStreetAbbr5885,OnStreetAbbr5885,DistrictName5885,0
+4,5934,SN5934,SB Fort Apache after Sahara,AtStreetAbbr5934,OnStreetAbbr5934,DistrictName5934,0
+4,5943,SN5943,NB Town Center before Twain,AtStreetAbbr5943,OnStreetAbbr5943,DistrictName5943,0
+4,5952,SN5952,SB Aliante after Nature Park,AtStreetAbbr5952,OnStreetAbbr5952,DistrictName5952,0
+4,5970,SN5970,NB Decatur after Sunset,AtStreetAbbr5970,OnStreetAbbr5970,DistrictName5970,0
+4,5999,SN5999,SB John Herbert before Centennial,AtStreetAbbr5999,OnStreetAbbr5999,DistrictName5999,0
+4,6006,SN6006,EB Deer Springs after Durango,AtStreetAbbr6006,OnStreetAbbr6006,DistrictName6006,0
+4,6028,SN6028,South Strip Transit Terminal Bay 3,AtStreetAbbr6028,OnStreetAbbr6028,DistrictName6028,0
+4,6029,SN6029,South Strip Transit Terminal Bay 4,AtStreetAbbr6029,OnStreetAbbr6029,DistrictName6029,0
+4,6031,SN6031,South Strip Transit Terminal Bay 6,AtStreetAbbr6031,OnStreetAbbr6031,DistrictName6031,0
+4,6038,SN6038,South Strip Transit Terminal Bay 13,AtStreetAbbr6038,OnStreetAbbr6038,DistrictName6038,0
+4,6039,SN6039,South Strip Transit Terminal Bay 14,AtStreetAbbr6039,OnStreetAbbr6039,DistrictName6039,0
+4,6040,SN6040,South Strip Transit Terminal Bay 15,AtStreetAbbr6040,OnStreetAbbr6040,DistrictName6040,0
+4,6042,SN6042,South Strip Transit Terminal Bay 17,AtStreetAbbr6042,OnStreetAbbr6042,DistrictName6042,0
+4,6043,SN6043,South Strip Transit Terminal Bay 18,AtStreetAbbr6043,OnStreetAbbr6043,DistrictName6043,0
+4,6064,SN6064,SB Cabana after Vegas Valley,AtStreetAbbr6064,OnStreetAbbr6064,DistrictName6064,0
+4,6083,SN6083,NB Rainbow after Warm Springs,AtStreetAbbr6083,OnStreetAbbr6083,DistrictName6083,0
+4,6087,SN6087,NB Valley View after Russell,AtStreetAbbr6087,OnStreetAbbr6087,DistrictName6087,0
+4,6127,SN6127,SB Rainbow before Badura,AtStreetAbbr6127,OnStreetAbbr6127,DistrictName6127,0
+4,6137,SN6137,EB Lake Mead after Simmons,AtStreetAbbr6137,OnStreetAbbr6137,DistrictName6137,0
+4,6142,SN6142,NB 4th after Carson,AtStreetAbbr6142,OnStreetAbbr6142,DistrictName6142,0
+4,6144,SN6144,Westcliff Transit Center,AtStreetAbbr6144,OnStreetAbbr6144,DistrictName6144,0
+4,6145,SN6145,SB Durango after Westcliff,AtStreetAbbr6145,OnStreetAbbr6145,DistrictName6145,0
+4,6148,SN6148,NB Durango after Charleston,AtStreetAbbr6148,OnStreetAbbr6148,DistrictName6148,0
+4,6156,SN6156,SB Casino Center before Garces,AtStreetAbbr6156,OnStreetAbbr6156,DistrictName6156,0
+4,6157,SN6157,WB Garces after Casino Center,AtStreetAbbr6157,OnStreetAbbr6157,DistrictName6157,0
+4,6158,SN6158,SB Casino Center after Bonneville,AtStreetAbbr6158,OnStreetAbbr6158,DistrictName6158,0
+4,6159,SN6159,EB Bonneville after 1st,AtStreetAbbr6159,OnStreetAbbr6159,DistrictName6159,0
+4,6201,SN6201,EB Carson after 4th,AtStreetAbbr6201,OnStreetAbbr6201,DistrictName6201,0
+4,6206,SN6206,SDX Nb Gr Centr at LV Prm Outlts-No,AtStreetAbbr6206,OnStreetAbbr6206,DistrictName6206,0
+4,6214,SN6214,Bonneville Transit Center Bay 2,AtStreetAbbr6214,OnStreetAbbr6214,DistrictName6214,0
+4,6215,SN6215,Bonneville Transit Center Bay 3,AtStreetAbbr6215,OnStreetAbbr6215,DistrictName6215,0
+4,6216,SN6216,Bonneville Transit Center Bay 4,AtStreetAbbr6216,OnStreetAbbr6216,DistrictName6216,0
+4,6218,SN6218,Bonneville Transit Center Bay 6,AtStreetAbbr6218,OnStreetAbbr6218,DistrictName6218,0
+4,6220,SN6220,Bonneville Transit Center Bay 8,AtStreetAbbr6220,OnStreetAbbr6220,DistrictName6220,0
+4,6221,SN6221,Bonneville Transit Center Bay 9,AtStreetAbbr6221,OnStreetAbbr6221,DistrictName6221,0
+4,6222,SN6222,Bonneville Transit Center Bay 10,AtStreetAbbr6222,OnStreetAbbr6222,DistrictName6222,0
+4,6224,SN6224,Bonneville Transit Center Bay 12,AtStreetAbbr6224,OnStreetAbbr6224,DistrictName6224,0
+4,6226,SN6226,Bonneville Transit Center Bay 14,AtStreetAbbr6226,OnStreetAbbr6226,DistrictName6226,0
+4,6228,SN6228,Bonneville Transit Center Bay 16,AtStreetAbbr6228,OnStreetAbbr6228,DistrictName6228,0
+4,6238,SN6238,NB Las Vegas after Warm Springs,AtStreetAbbr6238,OnStreetAbbr6238,DistrictName6238,0
+4,6240,SN6240,EB Reno after Las Vegas,AtStreetAbbr6240,OnStreetAbbr6240,DistrictName6240,0
+4,6241,SN6241,SB Fremont before Charleston,AtStreetAbbr6241,OnStreetAbbr6241,DistrictName6241,0
+4,6242,SN6242,SB Boulder after Sahara,AtStreetAbbr6242,OnStreetAbbr6242,DistrictName6242,0
+4,6243,SN6243,SB Boulder after Desert Inn,AtStreetAbbr6243,OnStreetAbbr6243,DistrictName6243,0
+4,6245,SN6245,SB Boulder before Tropicana,AtStreetAbbr6245,OnStreetAbbr6245,DistrictName6245,0
+4,6246,SN6246,SB Boulder after Sunset,AtStreetAbbr6246,OnStreetAbbr6246,DistrictName6246,0
+4,6250,SN6250,EB Paradise Hills after Compassion,AtStreetAbbr6250,OnStreetAbbr6250,DistrictName6250,0
+4,6252,SN6252,NB Boulder after Sunset,AtStreetAbbr6252,OnStreetAbbr6252,DistrictName6252,0
+4,6253,SN6253,SB Boulder before Lake Mead,AtStreetAbbr6253,OnStreetAbbr6253,DistrictName6253,0
+4,6262,SN6262,SB Water after Atlantic,AtStreetAbbr6262,OnStreetAbbr6262,DistrictName6262,0
+4,6282,SN6282,EB Stewart after 4th,AtStreetAbbr6282,OnStreetAbbr6282,DistrictName6282,0
+4,6297,SN6297,WB Warm Springs before Las Vegas,AtStreetAbbr6297,OnStreetAbbr6297,DistrictName6297,0
+4,6327,SN6327,NB Dean Martin before Blue Diamond,AtStreetAbbr6327,OnStreetAbbr6327,DistrictName6327,0
+4,6347,SN6347,WB Clark after 4th,AtStreetAbbr6347,OnStreetAbbr6347,DistrictName6347,0
+4,6348,SN6348,NB Eastern after Serene,AtStreetAbbr6348,OnStreetAbbr6348,DistrictName6348,0
+4,6353,SN6353,NB Losee after Craig,AtStreetAbbr6353,OnStreetAbbr6353,DistrictName6353,0
+4,6355,SN6355,EB Ann after Losee,AtStreetAbbr6355,OnStreetAbbr6355,DistrictName6355,0
+4,6358,SN6358,NLV VA Medical Ctr On Property Stop,AtStreetAbbr6358,OnStreetAbbr6358,DistrictName6358,0
+4,6361,SN6361,SB Losee after Ann,AtStreetAbbr6361,OnStreetAbbr6361,DistrictName6361,0
+4,6370,SN6370,WB Silverado Ranch after LV Blvd,AtStreetAbbr6370,OnStreetAbbr6370,DistrictName6370,0
+4,6377,SN6377,NB Eastern after Horizon Ridge,AtStreetAbbr6377,OnStreetAbbr6377,DistrictName6377,0
+4,6380,SN6380,UNLV Transit Center,AtStreetAbbr6380,OnStreetAbbr6380,DistrictName6380,0
+4,6386,SN6386,NB Stephanie after American Pacific,AtStreetAbbr6386,OnStreetAbbr6386,DistrictName6386,0
+4,6390,SN6390,WB Conestoga before Nevada State,AtStreetAbbr6390,OnStreetAbbr6390,DistrictName6390,0
+4,6397,SN6397,EB Bonneville after 4th,AtStreetAbbr6397,OnStreetAbbr6397,DistrictName6397,0
+4,6398,SN6398,SB Valley View after Sahara,AtStreetAbbr6398,OnStreetAbbr6398,DistrictName6398,0
+4,6417,SN6417,NB Fort Apache after Sunset,AtStreetAbbr6417,OnStreetAbbr6417,DistrictName6417,0
+4,6421,SN6421,NB Fort Apache after Tropicana,AtStreetAbbr6421,OnStreetAbbr6421,DistrictName6421,0
+4,6425,SN6425,NB Fort Apache after Flamingo,AtStreetAbbr6425,OnStreetAbbr6425,DistrictName6425,0
+4,6429,SN6429,NB Fort Apache after Desert Inn,AtStreetAbbr6429,OnStreetAbbr6429,DistrictName6429,0
+4,6437,SN6437,NB Buffalo after Lake Mead,AtStreetAbbr6437,OnStreetAbbr6437,DistrictName6437,0
+4,6448,SN6448,SB Buffalo after Lake Mead,AtStreetAbbr6448,OnStreetAbbr6448,DistrictName6448,0
+4,6451,SN6451,SB Fort Apache after Desert Inn,AtStreetAbbr6451,OnStreetAbbr6451,DistrictName6451,0
+4,6456,SN6456,SB Fort Apache after Tropicana,AtStreetAbbr6456,OnStreetAbbr6456,DistrictName6456,0
+4,6471,SN6471,EB Warm Springs after Durango,AtStreetAbbr6471,OnStreetAbbr6471,DistrictName6471,0
+4,6479,SN6479,NB Pavilion Ctr at Summerlin Centre,AtStreetAbbr6479,OnStreetAbbr6479,DistrictName6479,0
+4,6480,SN6480,NB Pavilion Ctr after Summerlin Ctr,AtStreetAbbr6480,OnStreetAbbr6480,DistrictName6480,0
+4,6481,SN6481,EB Cheyenne after Rampart,AtStreetAbbr6481,OnStreetAbbr6481,DistrictName6481,0
+4,6501,SN6501,NB Rancho after Sahara,AtStreetAbbr6501,OnStreetAbbr6501,DistrictName6501,0
+4,6521,SN6521,SB Main after Ogden,AtStreetAbbr6521,OnStreetAbbr6521,DistrictName6521,0
+4,6524,SN6524,NB Simmons after Cheyenne,AtStreetAbbr6524,OnStreetAbbr6524,DistrictName6524,0
+4,6530,SN6530,NB Main after Bridger,AtStreetAbbr6530,OnStreetAbbr6530,DistrictName6530,0
+4,6534,SN6534,NB Durango after Warm Springs,AtStreetAbbr6534,OnStreetAbbr6534,DistrictName6534,0
+4,6535,SN6535,NB Durango after Sunset,AtStreetAbbr6535,OnStreetAbbr6535,DistrictName6535,0
+4,6536,SN6536,SB Durango after Sunset,AtStreetAbbr6536,OnStreetAbbr6536,DistrictName6536,0
+4,6537,SN6537,SB Durango after Tropicana,AtStreetAbbr6537,OnStreetAbbr6537,DistrictName6537,0
+4,6538,SN6538,NB Durango after Sahara,AtStreetAbbr6538,OnStreetAbbr6538,DistrictName6538,0
+4,6539,SN6539,SB Durango after Sahara,AtStreetAbbr6539,OnStreetAbbr6539,DistrictName6539,0
+4,6540,SN6540,SB Durango after Charleston,AtStreetAbbr6540,OnStreetAbbr6540,DistrictName6540,0
+4,6541,SN6541,NB Buffalo before Cheyenne,AtStreetAbbr6541,OnStreetAbbr6541,DistrictName6541,0
+4,6542,SN6542,NB Durango after Cheyenne,AtStreetAbbr6542,OnStreetAbbr6542,DistrictName6542,0
+4,6543,SN6543,EB Sunset after Decatur,AtStreetAbbr6543,OnStreetAbbr6543,DistrictName6543,0
+4,6544,SN6544,SB Fort Apache after Sunset,AtStreetAbbr6544,OnStreetAbbr6544,DistrictName6544,0
+4,6545,SN6545,EB Sunset after Fort Apache,AtStreetAbbr6545,OnStreetAbbr6545,DistrictName6545,0
+4,6547,SN6547,WB Vegas after Durango,AtStreetAbbr6547,OnStreetAbbr6547,DistrictName6547,0
+4,6548,SN6548,EB Vegas after Mize,AtStreetAbbr6548,OnStreetAbbr6548,DistrictName6548,0
+4,6549,SN6549,WB Alta before Rampart,AtStreetAbbr6549,OnStreetAbbr6549,DistrictName6549,0
+4,6551,SN6551,RTC Mobility Training Ctr at SMF,AtStreetAbbr6551,OnStreetAbbr6551,DistrictName6551,0
+4,6552,SN6552,SSTT Exit,AtStreetAbbr6552,OnStreetAbbr6552,DistrictName6552,0
+4,6635,SN6635,EB Lake Mead after Rampart,AtStreetAbbr6635,OnStreetAbbr6635,DistrictName6635,0
+4,6640,SN6640,McCarran Airprt T3 On Property Stop,AtStreetAbbr6640,OnStreetAbbr6640,DistrictName6640,0
+4,6646,SN6646,SB Buffalo before Cheyenne,AtStreetAbbr6646,OnStreetAbbr6646,DistrictName6646,0
+4,6647,SN6647,SB Pecos before Flamingo,AtStreetAbbr6647,OnStreetAbbr6647,DistrictName6647,0
+4,6650,SN6650,NB Rainbow after Windmill,AtStreetAbbr6650,OnStreetAbbr6650,DistrictName6650,0
+4,6651,SN6651,SB Paradise after Warm Springs,AtStreetAbbr6651,OnStreetAbbr6651,DistrictName6651,0
+4,6652,SN6652,SB Maryland after Wigwam,AtStreetAbbr6652,OnStreetAbbr6652,DistrictName6652,0
+4,6653,SN6653,EB Horizon Ridge after Eastern,AtStreetAbbr6653,OnStreetAbbr6653,DistrictName6653,0
+4,6654,SN6654,SB Green Valley after Paseo Verde,AtStreetAbbr6654,OnStreetAbbr6654,DistrictName6654,0
+4,6657,SN6657,NB Maryland after Silverado Ranch,AtStreetAbbr6657,OnStreetAbbr6657,DistrictName6657,0
+4,6658,SN6658,NB Maryland after Wigwam,AtStreetAbbr6658,OnStreetAbbr6658,DistrictName6658,0
+4,6659,SN6659,NB Paradise before Warm Springs,AtStreetAbbr6659,OnStreetAbbr6659,DistrictName6659,0
+4,6661,SN6661,EB Galleria before Boulder,AtStreetAbbr6661,OnStreetAbbr6661,DistrictName6661,0
+4,6671,SN6671,SB Jones after Robindale,AtStreetAbbr6671,OnStreetAbbr6671,DistrictName6671,0
+4,6683,SN6683,EB Russell after Fort Apache,AtStreetAbbr6683,OnStreetAbbr6683,DistrictName6683,0
+4,6688,SN6688,OCallaghan Fed Hosp at Range Rd,AtStreetAbbr6688,OnStreetAbbr6688,DistrictName6688,0
+4,6689,SN6689,EB Tropicana before Fort Apache,AtStreetAbbr6689,OnStreetAbbr6689,DistrictName6689,0
+4,6690,SN6690,WB Russell after Fort Apache,AtStreetAbbr6690,OnStreetAbbr6690,DistrictName6690,0
+4,6692,SN6692,WB Galleria after Boulder,AtStreetAbbr6692,OnStreetAbbr6692,DistrictName6692,0
+4,6694,SN6694,NB Maryland after St Rose,AtStreetAbbr6694,OnStreetAbbr6694,DistrictName6694,0
+4,6747,SN6747,EB Patrick after Pioneer,AtStreetAbbr6747,OnStreetAbbr6747,DistrictName6747,0
+4,6775,SN6775,NB Pecos before Craig,AtStreetAbbr6775,OnStreetAbbr6775,DistrictName6775,0
+4,6776,SN6776,NB 5th after Rome,AtStreetAbbr6776,OnStreetAbbr6776,DistrictName6776,0
+4,6777,SN6777,WB Centennial after Commerce,AtStreetAbbr6777,OnStreetAbbr6777,DistrictName6777,0
+4,6778,SN6778,WB Carson before Las Vegas,AtStreetAbbr6778,OnStreetAbbr6778,DistrictName6778,0
+4,6808,SN6808,EB Bonneville before Casino Center,AtStreetAbbr6808,OnStreetAbbr6808,DistrictName6808,0
+4,6809,SN6809,EB Russell after Whitney Ranch,AtStreetAbbr6809,OnStreetAbbr6809,DistrictName6809,0
+4,6824,SN6824,EB Warm Springs after Woodside,AtStreetAbbr6824,OnStreetAbbr6824,DistrictName6824,0
+4,6840,SN6840,WB Lake Mead after Boulder,AtStreetAbbr6840,OnStreetAbbr6840,DistrictName6840,0
+4,6861,SN6861,SB Valley View after Tropicana,AtStreetAbbr6861,OnStreetAbbr6861,DistrictName6861,0
+4,6865,SN6865,NB Valley View after Tropicana,AtStreetAbbr6865,OnStreetAbbr6865,DistrictName6865,0
+4,6867,SN6867,NB Grnd Central at LV Prem Outl-Nor,AtStreetAbbr6867,OnStreetAbbr6867,DistrictName6867,0
+4,6868,SN6868,SB Decatur after Sunset,AtStreetAbbr6868,OnStreetAbbr6868,DistrictName6868,0
+4,6876,SN6876,SB Rainbow be before Windmill,AtStreetAbbr6876,OnStreetAbbr6876,DistrictName6876,0
+4,6881,SN6881,SB Jones after Tropicana,AtStreetAbbr6881,OnStreetAbbr6881,DistrictName6881,0
+4,6886,SN6886,SB Jones after Sunset,AtStreetAbbr6886,OnStreetAbbr6886,DistrictName6886,0
+4,6896,SN6896,NB Jones after Windmill,AtStreetAbbr6896,OnStreetAbbr6896,DistrictName6896,0
+4,6900,SN6900,NB Jones after Sunset,AtStreetAbbr6900,OnStreetAbbr6900,DistrictName6900,0
+4,6907,SN6907,NB Decatur after Elkhorn,AtStreetAbbr6907,OnStreetAbbr6907,DistrictName6907,0
+4,6919,SN6919,WB St Rose after Maryland,AtStreetAbbr6919,OnStreetAbbr6919,DistrictName6919,0
+4,6921,SN6921,SB Raiders after St Rose,AtStreetAbbr6921,OnStreetAbbr6921,DistrictName6921,0
+4,6926,SN6926,SB Chaparral before Volunteer,AtStreetAbbr6926,OnStreetAbbr6926,DistrictName6926,0
+4,6930,SN6930,EB Barbara after las Vegas Blvd,AtStreetAbbr6930,OnStreetAbbr6930,DistrictName6930,0
+4,6932,SN6932,SB Gilespie after Barbara,AtStreetAbbr6932,OnStreetAbbr6932,DistrictName6932,0
+4,6937,SN6937,NB Las Vegas after Volunteer,AtStreetAbbr6937,OnStreetAbbr6937,DistrictName6937,0
+4,6938,SN6938,EB Ann after Rainbow,AtStreetAbbr6938,OnStreetAbbr6938,DistrictName6938,0
+4,6945,SN6945,EB Ann after Decatur,AtStreetAbbr6945,OnStreetAbbr6945,DistrictName6945,0
+4,6961,SN6961,SB Lamb before Nexus,AtStreetAbbr6961,OnStreetAbbr6961,DistrictName6961,0
+4,6966,SN6966,NB Sloan before Tropical,AtStreetAbbr6966,OnStreetAbbr6966,DistrictName6966,0
+4,6970,SN6970,WB Centennial after Hollywood,AtStreetAbbr6970,OnStreetAbbr6970,DistrictName6970,0
+4,6975,SN6975,SB Sloan after Tropical,AtStreetAbbr6975,OnStreetAbbr6975,DistrictName6975,0
+4,6981,SN6981,NB Lamb after Nexus,AtStreetAbbr6981,OnStreetAbbr6981,DistrictName6981,0
+4,6990,SN6990,WB Ann after Losee,AtStreetAbbr6990,OnStreetAbbr6990,DistrictName6990,0
+4,6996,SN6996,WB Ann after Simmons,AtStreetAbbr6996,OnStreetAbbr6996,DistrictName6996,0
+4,7006,SN7006,NB Rainbow after Blue Diamond,AtStreetAbbr7006,OnStreetAbbr7006,DistrictName7006,0
+4,7011,SN7011,SB Ft Apache before Huntington Cove,AtStreetAbbr7011,OnStreetAbbr7011,DistrictName7011,0
+4,7020,SN7020,NB Ft Apache after Sherwood Greens,AtStreetAbbr7020,OnStreetAbbr7020,DistrictName7020,0
+4,7022,SN7022,SB Durango after Warm Springs,AtStreetAbbr7022,OnStreetAbbr7022,DistrictName7022,0
+4,7029,SN7029,NB Durango after Blue Diamond,AtStreetAbbr7029,OnStreetAbbr7029,DistrictName7029,0
+4,7031,SN7031,SB Durango after Agate,AtStreetAbbr7031,OnStreetAbbr7031,DistrictName7031,0
+4,7045,SN7045,WB Cactus after Decatur,AtStreetAbbr7045,OnStreetAbbr7045,DistrictName7045,0
+4,7051,SN7051,WB Cactus after Rainbow,AtStreetAbbr7051,OnStreetAbbr7051,DistrictName7051,0
+4,7059,SN7059,NB Buffalo after Gomer,AtStreetAbbr7059,OnStreetAbbr7059,DistrictName7059,0
+4,7063,SN7063,SB Durango after Blue Diamond,AtStreetAbbr7063,OnStreetAbbr7063,DistrictName7063,0
+4,7074,SN7074,NB Durango before Blue Diamond,AtStreetAbbr7074,OnStreetAbbr7074,DistrictName7074,0
+4,7078,SN7078,SB Buffalo after Gomer,AtStreetAbbr7078,OnStreetAbbr7078,DistrictName7078,0
+4,7085,SN7085,EB Cactus after Rainbow,AtStreetAbbr7085,OnStreetAbbr7085,DistrictName7085,0
+4,7089,SN7089,EB Cactus after Southern Highlands,AtStreetAbbr7089,OnStreetAbbr7089,DistrictName7089,0
+4,7103,SN7103,NB Decatur after Blue Diamond,AtStreetAbbr7103,OnStreetAbbr7103,DistrictName7103,0
+4,7111,SN7111,EB Tropical after Centennial Center,AtStreetAbbr7111,OnStreetAbbr7111,DistrictName7111,0
+4,7115,SN7115,NB Grand Montecito after Ace,AtStreetAbbr7115,OnStreetAbbr7115,DistrictName7115,0
+4,7119,SN7119,NB Fort Apache after Farm,AtStreetAbbr7119,OnStreetAbbr7119,DistrictName7119,0
+4,7125,SN7125,WB Skye Canyn Prk after Grand Canyn,AtStreetAbbr7125,OnStreetAbbr7125,DistrictName7125,0
+4,7134,SN7134,EB Farm after Fort Apache,AtStreetAbbr7134,OnStreetAbbr7134,DistrictName7134,0
+4,7137,SN7137,WB Deer Springs after Durango,AtStreetAbbr7137,OnStreetAbbr7137,DistrictName7137,0
+4,7143,SN7143,NB Hualapai after Deer Springs,AtStreetAbbr7143,OnStreetAbbr7143,DistrictName7143,0
+4,7155,SN7155,EB Deer Springs after Hualapai,AtStreetAbbr7155,OnStreetAbbr7155,DistrictName7155,0
+4,7164,SN7164,EB Cactus after Maryland,AtStreetAbbr7164,OnStreetAbbr7164,DistrictName7164,0
+4,7169,SN7169,WB Cactus after Maryland,AtStreetAbbr7169,OnStreetAbbr7169,DistrictName7169,0
+4,7183,SN7183,EB Horizon Ridge before Stephanie,AtStreetAbbr7183,OnStreetAbbr7183,DistrictName7183,0
+4,7195,SN7195,EB Horizon Ridge before Horizon,AtStreetAbbr7195,OnStreetAbbr7195,DistrictName7195,0
+4,7197,SN7197,WB Horizon Ridge after Horizon,AtStreetAbbr7197,OnStreetAbbr7197,DistrictName7197,0
+4,7203,SN7203,WB Horizon Ridge after Stephanie,AtStreetAbbr7203,OnStreetAbbr7203,DistrictName7203,0
+4,7214,SN7214,WB Paseo Verde after Green Valley,AtStreetAbbr7214,OnStreetAbbr7214,DistrictName7214,0
+4,7218,SN7218,EB Skye Canyn Prk after Grand Canyn,AtStreetAbbr7218,OnStreetAbbr7218,DistrictName7218,0
+4,7238,SN7238,NB Losee after Ann,AtStreetAbbr7238,OnStreetAbbr7238,DistrictName7238,0
+4,7247,SN7247,EB Starr before St Rose,AtStreetAbbr7247,OnStreetAbbr7247,DistrictName7247,0
+4,7262,SN7262,Water @ Army (N),AtStreetAbbr7262,OnStreetAbbr7262,DistrictName7262,0
+4,20015,SN20015,BTC Stop 1,AtStreetAbbr20015,OnStreetAbbr20015,DistrictName20015,0
+4,20016,SN20016,BTC Stop 2,AtStreetAbbr20016,OnStreetAbbr20016,DistrictName20016,0
+4,10001,IBMF,Simmons,,,,1
+4,10002,SMF,Sunset,,,,1

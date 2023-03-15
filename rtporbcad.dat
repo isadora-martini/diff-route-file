@@ -1,0 +1,682 @@
+place name,place description,longitude,latitude
+SN12,NB D before Owens,-115.147154,36.188311
+SN13,SB D after Owens,-115.147288,36.188244
+SN21,SB H after Lake Mead,-115.152018,36.195388
+SN30,NB H after Washington,-115.151748,36.181027
+SN31,SB H after Washington,-115.151941,36.180382
+SN63,WB Alta after Decatur,-115.206759,36.166616
+SN81,EB Alta after Rainbow,-115.243415,36.166363
+SN82,WB Alta after Rainbow,-115.245119,36.166568
+SN83,EB Alta after Rancho,-115.171846,36.166077
+SN84,WB Alta after Rancho,-115.174276,36.166216
+SN167,WB Bonanza before Las Vegas,-115.135858,36.174455
+SN179,EB Bonanza after Eastern,-115.115238,36.173797
+SN180,WB Bonanza after Eastern,-115.116707,36.17413
+SN188,EB Bonanza after Las Vegas,-115.135321,36.17405
+SN190,EB Bonanza after Lamb,-115.079524,36.17339
+SN191,WB Bonanza after Lamb,-115.081208,36.17361
+SN195,EB Bonanza after Martin L King,-115.159496,36.177024
+SN196,WB Bonanza after Sunny,-115.162145,36.177204
+SN210,WB Bonanza after Nellis,-115.064065,36.174106
+SN242,Railroad Pass On Property Stop,-114.911989,35.972099
+SN260,NB Boulder after Flamingo,-115.067173,36.115577
+SN267,SB Boulder after Greenway,-114.964467,36.023658
+SN270,SB Boulder after Harmon,-115.058858,36.107583
+SN276,NB Boulder after Lake Mead,-114.982682,36.040496
+SN278,NB Boulder after Lamb,-115.084147,36.130638
+SN292,SB Boulder after Nellis,-115.064129,36.112263
+SN297,NB Boulder after Palo Verde,-114.965796,36.025463
+SN303,SB Boulder after Russell,-115.032256,36.08393
+SN312,SB Boulder after Texas,-114.977556,36.035267
+SN313,NB Boulder Hwy after Texas,-114.979766,36.037862
+SN314,NB Boulder after Tropicana,-115.051156,36.101344
+SN339,SB Buchanan after Boulder City Pkwy,-114.845788,35.97356
+SN363,NB Camino Eldorado after Ann,-115.15698,36.261786
+SN372,EB Carey after Civic Center,-115.119523,36.203004
+SN400,WB Carey after Martin L King,-115.161702,36.203117
+SN443,WB Warm Springs before Center,-114.966306,36.050308
+SN473,EB Charleston after Decatur,-115.20473,36.158943
+SN474,WB Charleston after Decatur,-115.206551,36.159218
+SN497,EB Charleston after Maryland,-115.136234,36.158763
+SN498,WB Charleston after Maryland,-115.13779,36.159004
+SN503,EB Charleston after Nellis,-115.061301,36.15895
+SN504,WB Charleston after Nellis,-115.063968,36.159153
+SN508,EB Charleston after Palm,-115.100674,36.158722
+SN512,WB Charleston after Pecos,-115.102265,36.158976
+SN515,EB Charleston after Rainbow,-115.242706,36.15901
+SN516,WB Charleston after Rainbow,-115.244603,36.159235
+SN517,EB Charleston after Rancho,-115.172033,36.158762
+SN518,WB Charleston after Rancho,-115.173398,36.159007
+SN556,EB Cheyenne after Civic Center,-115.11931,36.217522
+SN567,EB Cheyenne after Jones,-115.224886,36.216684
+SN573,EB Cheyenne after Las Vegas,-115.092598,36.21756
+SN575,EB Cheyenne after Martin L King,-115.16062,36.217583
+SN576,WB Cheyenne after Martin L King,-115.162727,36.217839
+SN577,WB Cheyenne after Mary Dee,-115.11824,36.217766
+SN585,WB Cheyenne after Nellis,-115.062955,36.218389
+SN588,EB Cheyenne after Rainbow,-115.241509,36.21803
+SN589,WB Cheyenne after Rainbow,-115.243038,36.21836
+SN591,EB Cheyenne after Rancho,-115.210977,36.217047
+SN592,WB Cheyenne after Rancho,-115.21366,36.217197
+SN593,WB Cheyenne after Sandy,-115.094366,36.217782
+SN595,EB Cheyenne after Simmons,-115.178514,36.217448
+SN596,WB Cheyenne after Simmons,-115.18004,36.21774
+SN618,SB Civic Center after Basswood,-115.121108,36.216603
+SN632,NB Civic Center after Lake Mead,-115.116351,36.196504
+SN633,SB Civic Center after Lake Mead,-115.116408,36.194814
+SN655,NB Campus at CSN Cheyenne Campus,-115.106982,36.218619
+SN674,EB Craig after Lamb,-115.079038,36.240308
+SN677,EB Craig before Las Vegas,-115.056551,36.240424
+SN690,NB Decatur before Alpine,-115.205705,36.159682
+SN691,NB Decatur after Alta,-115.205845,36.167464
+SN697,SB Decatur after Charleston,-115.206034,36.158573
+SN698,NB Decatur after Cheyenne,-115.207344,36.217872
+SN718,NB Decatur after Lake Mead,-115.205799,36.195986
+SN719,SB Decatur after Lake Mead,-115.206163,36.194717
+SN737,NB Decatur after Sahara,-115.207951,36.145784
+SN738,SB Decatur after Sahara,-115.208319,36.143956
+SN743,NB Decatur after Spring Mountain,-115.207954,36.126726
+SN744,SB Decatur after Spring Mountain,-115.208306,36.125382
+SN747,NB Decatur after Tropicana,-115.207778,36.101936
+SN754,NB Decatur after Washington,-115.205934,36.181462
+SN755,SB Decatur after Washington,-115.206264,36.180144
+SN765,NB Lamb after Boulder,-115.083136,36.130644
+SN766,WB Desert Inn after Boulder,-115.085164,36.129757
+SN775,EB Desert Inn after Eastern,-115.117891,36.12973
+SN776,WB Desert Inn after Eastern,-115.119356,36.129952
+SN832,NB Eastern after Bonanza,-115.116073,36.174776
+SN833,SB Eastern after Bonanza,-115.11629,36.172852
+SN837,SB Eastern after Charleston,-115.119054,36.158343
+SN842,NB Eastern after Flamingo,-115.119009,36.115688
+SN843,SB Eastern after Flamingo,-115.119333,36.11378
+SN847,NB Eastern after Fremont,-115.117893,36.160176
+SN879,NB Eastern after Sahara,-115.118648,36.145313
+SN880,SB Eastern after Sahara,-115.118945,36.143589
+SN889,NB Eastern after Sunset,-115.118562,36.072358
+SN890,SB Eastern after Sunset,-115.118801,36.07043
+SN894,NB Eastern after Tropicana,-115.118832,36.1008
+SN895,SB Eastern after Tropicana,-115.119084,36.099028
+SN915,NB Englestad after Recco,-115.147603,36.19645
+SN933,EB Flamingo after Decatur,-115.207468,36.115328
+SN934,WB Flamingo after Decatur,-115.208734,36.115581
+SN957,EB Flamingo after Las Vegas,-115.171635,36.114505
+SN958,WB Flamingo after Las Vegas,-115.174108,36.114868
+SN961,EB Flamingo after Maryland,-115.136057,36.11444
+SN962,WB Flamingo after Maryland,-115.139003,36.114731
+SN965,WB Flamingo after Nellis,-115.06533,36.115028
+SN970,EB Flamingo after Paradise,-115.152793,36.114323
+SN971,WB Flamingo after Paradise,-115.15475,36.114435
+SN974,EB Flamingo after Pecos,-115.100032,36.115111
+SN975,WB Flamingo after Pecos,-115.101617,36.115365
+SN978,EB Flamingo after Rainbow,-115.242402,36.114381
+SN989,WB Flamingo after Spring Leaf,-115.244036,36.114625
+SN1024,WB Fremont after Eastern,-115.119168,36.160082
+SN1031,NB Fremont after Sahara,-115.101677,36.146203
+SN1069,SB Green Valley after Warm Springs,-115.084061,36.055913
+SN1078,EB Harmon after Boulder,-115.05807,36.108748
+SN1136,EB Horizon after College,-114.962088,36.012528
+SN1137,WB Horizon after College,-114.964922,36.01278
+SN1176,NB Jones after Charleston,-115.223793,36.160687
+SN1177,SB Jones after Charleston,-115.224115,36.158511
+SN1179,SB Jones after Cheyenne,-115.225809,36.216187
+SN1203,NB Jones after Lake Mead,-115.223781,36.19642
+SN1204,SB Jones after Lake Mead,-115.224018,36.195237
+SN1217,NB Jones after Sahara,-115.225154,36.145172
+SN1218,SB Jones after Sahara,-115.22543,36.14366
+SN1222,NB Jones after Spring Mountain,-115.224819,36.12595
+SN1223,SB Jones after Spring Mountain,-115.225075,36.124625
+SN1227,NB Jones after Tropicana,-115.224914,36.100788
+SN1237,NB Jones after Washington,-115.223764,36.181842
+SN1238,SB Jones after Washington,-115.223951,36.180285
+SN1257,NB Koval after Tropicana,-115.163784,36.102309
+SN1258,SB Koval after Tropicana,-115.163973,36.100262
+SN1308,NB Las Vegas after Pecos,-115.098109,36.214782
+SN1326,SB Las Vegas before Washington,-115.134167,36.181954
+SN1332,NB Las Vegas at the Paris,-115.172729,36.112511
+SN1343,SB Las Vegas after Charleston,-115.148276,36.157801
+SN1344,SB LV Blvd at Slots-A-Fun/Circ Circ,-115.162774,36.135662
+SN1351,SB Las Vegas at Excalibur,-115.173216,36.099836
+SN1353,NB Las Vegas at The Wynn,-115.168166,36.126887
+SN1354,SB Las Vegas at Fashion Show Mall,-115.168908,36.126454
+SN1358,SB LV Blvd at Fremont St Experience,-115.140609,36.16953
+SN1363,NB Las Vegas at Luxor/Mandalay Bay,-115.172669,36.094582
+SN1364,SB Las Vegas at Mandalay Bay,-115.173152,36.092973
+SN1371,NB Las Vegas at MGM/Showcase Mall,-115.172671,36.102653
+SN1375,SB Las Vegas at Luxor,-115.173175,36.094748
+SN1391,NB Las Vegas after Sahara,-115.156746,36.144327
+SN1409,NB Las Vegas after Wigwam,-115.172186,36.03667
+SN1410,SB Las Vegas before Wigwam,-115.17255,36.036147
+SN1444,EB Lake Mead after Decatur,-115.205068,36.195418
+SN1445,WB Lake Mead after Decatur,-115.206758,36.195596
+SN1458,EB Lake Mead after Las Vegas,-115.128618,36.195639
+SN1459,WB Lake Mead after Las Vegas,-115.129378,36.196018
+SN1473,EB Lake Mead after Martin L King,-115.1598,36.19557
+SN1474,WB Lake Mead after Martin L King,-115.16154,36.195855
+SN1486,EB Lake Mead after Nellis,-115.061625,36.196124
+SN1487,WB Lake Mead after Nellis,-115.06275,36.196349
+SN1491,EB Lake Mead after Pecos,-115.097258,36.195639
+SN1492,WB Lake Mead after Pecos,-115.0992,36.195987
+SN1496,WB Lake Mead after Radwick,-115.022238,36.196176
+SN1497,WB Lake Mead before Rainbow,-115.240536,36.196079
+SN1498,EB Lake Mead after Rainbow,-115.240899,36.195859
+SN1530,EB Lake Mead after Boulder,-114.980985,36.040121
+SN1563,NB Lamb after Charleston,-115.080107,36.159647
+SN1564,SB Lamb after Charleston,-115.080356,36.158451
+SN1571,NB Lamb after Craig,-115.079824,36.241647
+SN1572,SB Lamb after Craig,-115.080152,36.239798
+SN1586,NB Lamb after Lake Mead,-115.08,36.19631
+SN1587,SB Lamb before Lake Mead,-115.080283,36.196533
+SN1618,WB Lone Mountain after Rancho,-115.241129,36.247885
+SN1649,NB Martin L King after Cheyenne,-115.161095,36.218724
+SN1650,SB Martin L King after Cheyenne,-115.161392,36.217009
+SN1651,NB Camino Al Norte after Craig,-115.161833,36.240088
+SN1652,SB Martin L King after Craig,-115.162165,36.238599
+SN1661,NB Martin L King after Lake Mead,-115.160636,36.196237
+SN1662,SB Martin L King after Lake Mead,-115.160994,36.194696
+SN1675,NB Martin L King after Washington,-115.160715,36.181537
+SN1676,SB Martin L King after Washington,-115.16104,36.179894
+SN1685,SB Main after Bridger,-115.148194,36.169076
+SN1718,NB Maryland after Bonanza,-115.13041,36.17468
+SN1719,SB Maryland after Bonanza,-115.13078,36.173617
+SN1726,NB Maryland before Charleston,-115.136811,36.158141
+SN1727,SB Maryland after Charleston,-115.137071,36.158173
+SN1732,SB Maryland after Desert Inn,-115.137094,36.128897
+SN1733,NB Maryland after Flamingo,-115.137684,36.115406
+SN1735,SB Maryland after Flamingo,-115.137948,36.113688
+SN1763,NB Maryland after Sahara,-115.1369,36.144903
+SN1764,SB Maryland after Sahara,-115.13706,36.143044
+SN1766,NB Maryland before Desert Inn,-115.136805,36.1291
+SN1774,NB Maryland before Tropicana,-115.136732,36.100458
+SN1775,SB Maryland after Tropicana,-115.137072,36.099884
+SN1776,NB Maryland after Twain,-115.137218,36.122648
+SN1785,McCarran Airprt Zero Lvl On Proprty,-115.147959,36.085359
+SN1793,NB McLeod after Sahara,-115.10983,36.144739
+SN1794,SB McLeod after Sahara,-115.110001,36.143524
+SN1819,WB Tropicana after Andover,-115.054369,36.100609
+SN1847,NB Nellis after Bonanza,-115.062037,36.174998
+SN1848,SB Nellis after Bonanza,-115.062303,36.17359
+SN1849,NB Nellis after Boulder,-115.064527,36.114277
+SN1850,SB Nellis after Boulder,-115.06474,36.11231
+SN1857,NB Nellis after Charleston,-115.062163,36.15952
+SN1858,SB Nellis after Charleston,-115.062452,36.158356
+SN1859,NB Nellis after Cheyenne,-115.06203,36.2191
+SN1860,SB Nellis after Cheyenne,-115.062369,36.21758
+SN1862,NB Nellis after Desert Inn,-115.065199,36.130407
+SN1863,SB Nellis after Desert Inn,-115.065509,36.12916
+SN1883,NB Nellis after Lake Mead,-115.06201,36.196639
+SN1884,SB Nellis after Lake Mead,-115.062286,36.195567
+SN1890,NB Nellis after Owens,-115.062055,36.189591
+SN1894,NB Nellis after Sahara,-115.065305,36.144967
+SN1895,SB Nellis after Sahara,-115.065621,36.143751
+SN1902,NB Nellis after Tropicana,-115.063848,36.101108
+SN1903,SB Nellis after Tropicana,-115.064076,36.099733
+SN1915,WB Nevada after Elm,-114.842619,35.97399
+SN1982,EB Owens after N,-115.159647,36.188338
+SN1993,WB Owens after Civic Center,-115.116567,36.188588
+SN1997,EB Owens after Eastern,-115.114902,36.188384
+SN2004,EB Owens before Las Vegas,-115.134422,36.188347
+SN2005,WB Owens after Las Vegas,-115.13468,36.188529
+SN2017,WB Owens before Nellis,-115.061179,36.188958
+SN2019,WB Owens after Nellis,-115.06275,36.188919
+SN2024,EB Owens after Pecos,-115.097759,36.18802
+SN2025,WB Owens after Pecos,-115.099029,36.188238
+SN2043,SB Palm after Charleston,-115.101221,36.158112
+SN2059,SB Paradise after Desert Inn,-115.154991,36.128798
+SN2061,SB Paradise after Flamingo,-115.153908,36.113658
+SN2069,SB Paradise after Sahara,-115.154935,36.142296
+SN2072,SB Paradise before Tropicana,-115.150364,36.102179
+SN2096,NB Pecos after Charleston,-115.100908,36.15933
+SN2101,NB Pecos before Flamingo,-115.100709,36.114447
+SN2111,NB Pecos after Las Vegas,-115.098408,36.21532
+SN2112,NB Pecos after Lake Mead,-115.098249,36.196539
+SN2113,SB Pecos after Lake Mead,-115.098509,36.19514
+SN2114,SB Pecos after Las Vegas,-115.098702,36.213893
+SN2136,NB Pecos after Sunset,-115.1007,36.07288
+SN2139,NB Pecos after Tropicana,-115.100879,36.100669
+SN2140,SB Pecos after Tropicana,-115.101184,36.099406
+SN2181,NB Rainbow after Alta,-115.244102,36.166941
+SN2182,SB Rainbow after Alta,-115.244469,36.165939
+SN2186,NB Rainbow after Charleston,-115.243566,36.159959
+SN2187,SB Rainbow after Charleston,-115.243867,36.158408
+SN2188,NB Rainbow after Cheyenne,-115.242195,36.218605
+SN2189,SB Rainbow after Cheyenne,-115.24243,36.217347
+SN2200,NB Rainbow after Flamingo,-115.242793,36.115383
+SN2201,SB Rainbow after Flamingo,-115.243129,36.113531
+SN2210,NB Rainbow after Lake Mead,-115.241887,36.196526
+SN2211,SB Rainbow after Lake Mead,-115.242406,36.194403
+SN2228,NB Rainbow after Sahara,-115.242798,36.145465
+SN2229,SB Rainbow after Sahara,-115.24309,36.14347
+SN2234,NB Rainbow after Spring Mountain,-115.24282,36.126945
+SN2235,SB Rainbow after Spring Mountain,-115.243152,36.124646
+SN2245,SB Rainbow after Tropicana,-115.243239,36.098852
+SN2252,NB Rainbow after Washington,-115.242153,36.181579
+SN2253,SB Rainbow after Washington,-115.242479,36.180135
+SN2263,SB Rampart after Cheyenne,-115.27895,36.21826
+SN2265,NB Rampart after Lake Mead,-115.281369,36.200609
+SN2279,NB Rancho after Charleston,-115.172637,36.159608
+SN2281,NB Rancho after Cheyenne,-115.212344,36.217601
+SN2282,SB Rancho after Cheyenne,-115.211824,36.216615
+SN2303,NB Rancho after Lake Mead,-115.19685,36.200648
+SN2304,SB Rancho after Lake Mead,-115.19621,36.199411
+SN2306,SB Rancho after Lone Mountain,-115.239814,36.247256
+SN2333,NB Rancho after Washington,-115.17952,36.181615
+SN2334,SB Rancho after Washington,-115.178995,36.180659
+SN2374,EB Rossmoyne after Revere,-115.15121,36.20865
+SN2402,EB Sahara after Decatur,-115.20744,36.144374
+SN2404,WB Sahara after Decatur,-115.208779,36.144679
+SN2417,WB Sahara after Fremont,-115.102156,36.145385
+SN2418,EB Sahara after Fort Apache,-115.297009,36.144236
+SN2419,EB Sahara before Boulder,-115.101753,36.145306
+SN2439,EB Sahara after Maryland,-115.13649,36.1441
+SN2441,WB Sahara after Maryland,-115.138199,36.144354
+SN2447,EB Sahara after Nellis,-115.06482,36.144199
+SN2453,EB Sahara before Rancho,-115.174764,36.144108
+SN2456,EB Sahara after Rainbow,-115.241914,36.143995
+SN2457,WB Sahara after Rainbow,-115.243591,36.144297
+SN2458,WB Sahara after Rancho,-115.174593,36.144479
+SN2473,WB Sahara after Sloan,-115.047918,36.144711
+SN2506,EB Sands after Las Vegas,-115.168441,36.125149
+SN2524,SB Simmons after Craig,-115.180307,36.238629
+SN2539,WB Smoke Ranch after Rainbow,-115.242731,36.203484
+SN2558,EB Spring Mountain after Decatur,-115.206621,36.126198
+SN2559,WB Spring Mountain after Decatur,-115.20883,36.12634
+SN2572,WB Spring Mountain after Las Vegas,-115.170513,36.125696
+SN2579,EB Spring Mountain after Rainbow,-115.242227,36.125631
+SN2580,WB Spring Mountain after Rainbow,-115.244505,36.125795
+SN2605,NB Stephanie after Sunset,-115.046007,36.065857
+SN2606,SB Stephanie after Sunset,-115.04633,36.063059
+SN2621,WB Stewart after 6th,-115.138504,36.171383
+SN2630,EB Stewart after Eastern,-115.114564,36.166402
+SN2631,WB Stewart after Eastern,-115.11622,36.166647
+SN2644,EB Stewart after Nellis,-115.061552,36.166441
+SN2645,WB Stewart after Nellis,-115.062836,36.166629
+SN2648,EB Stewart after Pecos,-115.097669,36.166024
+SN2649,WB Stewart after Pecos,-115.098787,36.166257
+SN2670,EB Sunset after Eastern,-115.117697,36.071459
+SN2671,WB Sunset after Eastern,-115.11945,36.07177
+SN2680,EB Sunset after Green Valley,-115.081219,36.07077
+SN2681,WB Sunset after Green Valley,-115.083296,36.071016
+SN2694,EB Sunset after Pecos,-115.099704,36.071435
+SN2704,WB Sunset after Stephanie,-115.046736,36.06384
+SN2705,EB Sunset before Stephanie,-115.047958,36.063528
+SN2717,NB University Ctr after Flamingo,-115.146229,36.115853
+SN2725,NB University Ctr after Tropicana,-115.145872,36.101584
+SN2733,NB Tenaya before Cheyenne,-115.251008,36.216339
+SN2758,NB Torrey Pines after Lake Mead,-115.232967,36.196633
+SN2759,SB Torrey Pines after Lake Mead,-115.233191,36.195386
+SN2770,NB Town Ctr before Covington Cross,-115.310943,36.182812
+SN2793,EB Tropicana before Decatur,-115.208537,36.100718
+SN2795,WB Tropicana after Decatur,-115.208867,36.100979
+SN2812,EB Tropicana after Las Vegas,-115.170776,36.100731
+SN2813,WB Tropicana after Las Vegas,-115.17449,36.101017
+SN2815,EB Tropicana after Maryland,-115.136088,36.100789
+SN2816,WB Tropicana after Maryland,-115.138138,36.101128
+SN2827,EB Tropicana after Nellis,-115.06326,36.100139
+SN2828,WB Tropicana after Nellis,-115.06486,36.100388
+SN2835,EB Tropicana after Pecos,-115.100088,36.099918
+SN2836,WB Tropicana after Pecos,-115.102129,36.100168
+SN2838,EB Tropicana after Rainbow,-115.241679,36.099679
+SN2839,WB Tropicana after Rainbow,-115.244119,36.099958
+SN2879,WB Twain after Maryland,-115.138971,36.12228
+SN2893,NB Utah before Northridge,-114.825897,35.973668
+SN2919,NB Valley View after Charleston,-115.192356,36.159601
+SN2920,SB Valley View after Charleston,-115.192578,36.158362
+SN2932,SB Valley View after Meadows,-115.192727,36.169602
+SN2937,NB Valley View after Sahara,-115.190663,36.145519
+SN2944,NB Valley View after Spring Mtn,-115.190085,36.127692
+SN2945,SB Valley View after Spring Mtn,-115.190341,36.12601
+SN2964,EB Vegas after Decatur,-115.20537,36.1881
+SN2965,WB Vegas after Decatur,-115.207196,36.188285
+SN2972,WB Vegas after Martin L King,-115.161596,36.188616
+SN2978,EB Vegas before Rainbow,-115.242615,36.188537
+SN2979,WB Vegas before Rainbow,-115.241048,36.188708
+SN2980,EB Vegas after Rancho,-115.185197,36.188389
+SN2981,WB Vegas after Rancho,-115.187035,36.188611
+SN3029,EB Warm Sprngs at LV Prm Outlets-So,-115.169487,36.056788
+SN3036,EB Warm Springs after Eastern,-115.117239,36.056758
+SN3037,WB Warm Springs after Eastern,-115.11931,36.057108
+SN3040,EB Warm Springs after Green Valley,-115.083209,36.056328
+SN3041,WB Warm Springs after Green Valley,-115.085088,36.05667
+SN3051,EB Warm Springs after Paradise,-115.140469,36.057179
+SN3052,WB Warm Springs after Paradise,-115.142505,36.057369
+SN3061,EB Warm Springs after Stephanie,-115.045818,36.056078
+SN3062,WB Warm Springs after Stephanie,-115.046859,36.056359
+SN3090,WB Washington before Decatur,-115.20558,36.181053
+SN3091,EB Washington after Decatur,-115.205527,36.180853
+SN3105,EB Washington after Jones,-115.223207,36.180684
+SN3106,WB Washington after Jones,-115.224311,36.180848
+SN3111,EB Washington after Martin L King,-115.16042,36.180779
+SN3112,WB Washington after Martin L King,-115.161986,36.18096
+SN3123,EB Washington after Nellis,-115.061667,36.181337
+SN3124,WB Washington after Nellis,-115.063208,36.181519
+SN3128,EB Washington after Pecos,-115.097688,36.180779
+SN3129,WB Washington after Pecos,-115.099129,36.18108
+SN3131,EB Washington after Rainbow,-115.241628,36.181138
+SN3132,EB Washington after Rancho,-115.178228,36.180987
+SN3133,WB Washington before Rancho,-115.178893,36.181175
+SN3142,WB Washington before Rainbow,-115.241706,36.181348
+SN3217,NB Rainbow after Tropicana,-115.242915,36.100325
+SN3226,SB Decatur after Tropicana,-115.208151,36.100217
+SN3262,SB Eastern after Serene,-115.118814,36.019902
+SN3263,NB Pecos after Windmill,-115.100139,36.04287
+SN3274,SB Pecos after Craig,-115.097451,36.239412
+SN3301,NB Green Valley after Warm Springs,-115.084439,36.057419
+SN3369,WB Sahara after Fort Apache,-115.29853,36.144571
+SN3379,WB Sahara after Nellis,-115.065931,36.144419
+SN3399,NB Sloan after Sahara,-115.047144,36.145452
+SN3419,WB Bonanza after Ute,-115.061027,36.17421
+SN3470,WB Cheyenne after Durango,-115.279408,36.21875
+SN3502,EB Craig after Pecos,-115.096598,36.240098
+SN3508,WB Craig after Lamb,-115.08097,36.240577
+SN3509,WB Craig before Mitchell,-115.096205,36.240396
+SN3590,SB Las Vegas at Bellagio,-115.17324,36.110565
+SN3617,SB Eastern after Pebble,-115.118629,36.027135
+SN3620,EB Charleston after Fort Apache,-115.290585,36.158878
+SN3655,NB Eastern after Pebble,-115.11828,36.028256
+SN3681,EB Spring Mountain after Durango,-115.277972,36.125773
+SN3689,SB Civic Center before Cope,-115.120158,36.218891
+SN3692,EB Charleston after Sloan,-115.045216,36.159313
+SN3775,WB Charleston after Rampart,-115.292139,36.159166
+SN3863,NB Durango after Tropicana,-115.27905,36.10082
+SN3867,EB Flamingo after Durango,-115.277867,36.11473
+SN3872,EB Cheyenne before Nellis,-115.063082,36.218154
+SN3940,WB Lake Mead after Simmons,-115.179575,36.197569
+SN3943,WB Craig after Losee,-115.11769,36.239943
+SN3948,WB Craig after Camino Al Norte,-115.16284,36.239619
+SN3951,WB Craig after Simmons,-115.180739,36.239599
+SN3956,WB Craig after Decatur,-115.20843,36.238947
+SN3970,EB Craig after Rancho,-115.231074,36.239349
+SN3971,EB Craig after Decatur,-115.206251,36.238662
+SN3976,EB Craig after Martin L King,-115.160949,36.239218
+SN3981,EB Craig after Losee,-115.116219,36.239687
+SN3998,SB Pecos before Sunset,-115.100996,36.072353
+SN4003,SB Pecos after Windmill,-115.100419,36.04185
+SN4026,WB Ann after Camino Eldorado,-115.157413,36.261179
+SN4058,EB Desert Inn after Fort Apache,-115.296409,36.12971
+SN4064,NB Paradise after Desert Inn,-115.154681,36.130124
+SN4092,SB Gr Centr at LV Prem Outlets-Nort,-115.157058,36.163237
+SN4172,NB Las Vegas at Las Vegas Golf,-115.172172,36.068633
+SN4183,NB Las Vegas after Washington,-115.133882,36.182698
+SN4186,NB Boulder before Russell,-115.031831,36.084213
+SN4188,EB Russell after Valley View,-115.188946,36.086187
+SN4225,WB Ann after Decatur,-115.2078,36.261709
+SN4229,NB Village Park after Paseo Verde,-115.087602,36.020102
+SN4275,WB Sky Pointe after John Herbert,-115.263191,36.278987
+SN4288,SB Las Vegas after Craig,-115.056637,36.239355
+SN4294,SB Las Vegas after Pecos,-115.099531,36.214254
+SN4299,SB Las Vegas after Town Square,-115.172626,36.067595
+SN4351,NB Paradise before Sahara,-115.154609,36.142337
+SN4352,NB Hollywood after Lake Mead,-115.026249,36.196403
+SN4427,NB Jones after Cheyenne,-115.2257,36.217535
+SN4442,SB Simmons before Cheyenne,-115.179652,36.21855
+SN4450,NB Rancho after Lone Mountain,-115.240395,36.248359
+SN4483,WB Horizon Ridge after Eastern,-115.105982,35.998937
+SN4487,SB Buffalo after Cheyenne,-115.2606,36.21768
+SN5051,SB Las Vegas before Lake Mead,-115.128124,36.196733
+SN5052,NB Las Vegas after Lake Mead,-115.127848,36.196736
+SN5067,EB Anne after Simmons,-115.179134,36.261457
+SN5117,SB Fort Apache after Charleston,-115.291593,36.158363
+SN5139,NB Durango after Flamingo,-115.278839,36.115438
+SN5164,NB Durango after Spring Mountain,-115.278782,36.126416
+SN5169,NB Fort Apache after Sahara,-115.29758,36.145285
+SN5203,WB Farm after Tule Springs,-115.279391,36.299222
+SN5235,SB Las Vegas after Silverado Ranch,-115.172614,36.01304
+SN5277,SB Gibson after Mary Crest,-115.029508,36.037728
+SN5278,SB Gibson after Las Palmas Entrada,-115.029701,36.028183
+SN5283,NB Stephanie after Horizon Ridge,-115.047123,36.022358
+SN5326,EB American Pacific after Stephanie,-115.045915,36.041636
+SN5387,WB Lake Mead after Rampart,-115.283148,36.200489
+SN5407,NB Decatur after Craig,-115.207488,36.239799
+SN5408,NB Decatur after Ann,-115.206988,36.262094
+SN5409,SB Decatur after Craig,-115.207752,36.237987
+SN5410,SB Camino Al Norte after Ann,-115.155901,36.260417
+SN5411,WB Ann after Rainbow,-115.243106,36.263312
+SN5416,EB Farm after Tule Springs,-115.277915,36.298956
+SN5419,SB Whitney Ranch after Russell,-115.053932,36.081542
+SN5422,SB Maryland after Silverado Ranch,-115.136919,36.012309
+SN5423,EB Lake Mead after Fiesta Henderson,-115.006853,36.034309
+SN5424,WB Lk Mead before Fiesta Henderson,-115.007151,36.034596
+SN5427,SB Simmons before Lake Mead,-115.179002,36.19825
+SN5428,NB Simmons after Lake Mead,-115.178669,36.198018
+SN5432,SB Decatur after Ann,-115.207379,36.260883
+SN5433,SB Decatur after Rome,-115.206786,36.27847
+SN5435,NB Simmons after Craig,-115.179987,36.240304
+SN5438,SB Rancho after Charleston,-115.172939,36.158577
+SN5441,EB Lone Mountain before Rancho,-115.241333,36.247622
+SN5442,EB Warm Springs after Las Vegas,-115.170474,36.05681
+SN5448,EB Warm Springs after Rainbow,-115.242217,36.055664
+SN5449,NB Buffalo after Patrick,-115.260647,36.078708
+SN5458,EB Vegas Valley before Hollywood,-115.030472,36.137084
+SN5461,SB Casino Center before Fremont,-115.144028,36.170924
+SN5464,NB Casino Center before Garces,-115.148728,36.163565
+SN5465,SB Casino Center at Garces,-115.148562,36.163872
+SN5467,NB Casino Center at Coolidge,-115.151027,36.160046
+SN5474,EB Ace before Grand Montecito,-115.284992,36.2935
+SN5475,WB Ace after Grand Montecito,-115.285508,36.293721
+SN5477,NB Rainbow after Badura,-115.242317,36.061828
+SN5479,NB Gr Centr at LV Prem Outlets-Nort,-115.156343,36.163714
+SN5480,EB Vegas Valley after Nellis,-115.064161,36.136902
+SN5481,WB Vegas Valley after Nellis,-115.06603,36.137052
+SN5525,SB Decatur before Cheyenne,-115.207657,36.217715
+SN5545,EB Ann after Drexel,-115.24976,36.262984
+SN5552,WB Ann after Eifel Tower,-115.249979,36.263223
+SN5553,SB Centennial Center after Tropical,-115.264079,36.271197
+SN5556,NB Centennial Center after Azure,-115.265109,36.272382
+SN5607,EB Silverado Ranch after Las Vegas,-115.171657,36.013559
+SN5646,SB Rancho before Sahara,-115.173275,36.145497
+SN5706,NB Green Valley after Paseo Verde,-115.083659,36.021428
+SN5712,EB Ann after Camino Al Norte,-115.155706,36.261465
+SN5721,WB Russell after Whitney Ranch,-115.054385,36.082534
+SN5725,CSN Hend Campus On Property Stop,-114.964727,36.006189
+SN5727,EB Tropicana before Durango,-115.279988,36.09993
+SN5728,WB Tropicana after Durango,-115.279999,36.100187
+SN5730,NB Grand Canyon before Rochelle,-115.305927,36.11112
+SN5731,WB Cheyenne after Metro Academy,-115.312848,36.218507
+SN5740,WB Flamingo after Durango,-115.279658,36.115067
+SN5745,WB Tropicana after Fort Apache,-115.298009,36.100182
+SN5756,EB Tropicana after Fort Apache,-115.296581,36.099906
+SN5764,SB Fort Apache after Flamingo,-115.297233,36.114128
+SN5783,SB Durango after Flamingo,-115.279199,36.114308
+SN5850,SB Rampart after Lake Mead,-115.283075,36.199368
+SN5854,SB College after Horizon,-114.963435,36.012025
+SN5857,NB Rampart after Charleston,-115.29126,36.160033
+SN5858,EB Elkhorn after Aliante,-115.182988,36.293101
+SN5859,SB Simmons after Ann,-115.180168,36.260664
+SN5862,NB Simmons after Ann,-115.179821,36.262233
+SN5863,NB Valley View before U.S. 95,-115.192499,36.173143
+SN5864,SB Valley View before Meadows,-115.192804,36.173176
+SN5866,WB Meadows after Valley View,-115.193773,36.17022
+SN5867,WB Silverado Ranch after Maryland,-115.137909,36.013401
+SN5880,South Point Hotel On Property Stop,-115.173997,36.010798
+SN5885,EB Alta after Rampart,-115.287229,36.166219
+SN5934,SB Fort Apache after Sahara,-115.29779,36.143493
+SN5943,NB Town Center before Twain,-115.325159,36.123108
+SN5952,SB Aliante after Nature Park,-115.177884,36.287387
+SN5970,NB Decatur after Sunset,-115.207689,36.072479
+SN5999,SB John Herbert before Centennial,-115.260796,36.279432
+SN6006,EB Deer Springs after Durango,-115.287148,36.284431
+SN6028,South Strip Transit Terminal Bay 3,-115.164922,36.068293
+SN6029,South Strip Transit Terminal Bay 4,-115.165272,36.068284
+SN6031,South Strip Transit Terminal Bay 6,-115.165774,36.068277
+SN6038,South Strip Transit Terminal Bay 13,-115.16549,36.068559
+SN6039,South Strip Transit Terminal Bay 14,-115.165259,36.068555
+SN6040,South Strip Transit Terminal Bay 15,-115.16502,36.068607
+SN6042,South Strip Transit Terminal Bay 17,-115.164421,36.068563
+SN6043,South Strip Transit Terminal Bay 18,-115.164122,36.068565
+SN6064,SB Cabana after Vegas Valley,-115.056488,36.136565
+SN6083,NB Rainbow after Warm Springs,-115.242784,36.056437
+SN6087,NB Valley View after Russell,-115.189725,36.086869
+SN6127,SB Rainbow before Badura,-115.242719,36.061656
+SN6137,EB Lake Mead after Simmons,-115.177741,36.197324
+SN6142,NB 4th after Carson,-115.142287,36.16879
+SN6144,Westcliff Transit Center,-115.278487,36.17317
+SN6145,SB Durango after Westcliff,-115.278138,36.173179
+SN6148,NB Durango after Charleston,-115.280189,36.159545
+SN6156,SB Casino Center before Garces,-115.148608,36.16402
+SN6157,WB Garces after Casino Center,-115.149026,36.163949
+SN6158,SB Casino Center after Bonneville,-115.148364,36.164385
+SN6159,EB Bonneville after 1st,-115.148644,36.165109
+SN6201,EB Carson after 4th,-115.142251,36.168351
+SN6206,SDX Nb Gr Centr at LV Prm Outlts-No,-115.156599,36.163586
+SN6214,Bonneville Transit Center Bay 2,-115.14883,36.164639
+SN6215,Bonneville Transit Center Bay 3,-115.148981,36.164402
+SN6216,Bonneville Transit Center Bay 4,-115.149123,36.164204
+SN6218,Bonneville Transit Center Bay 6,-115.148755,36.164404
+SN6220,Bonneville Transit Center Bay 8,-115.148503,36.164811
+SN6221,Bonneville Transit Center Bay 9,-115.148489,36.164679
+SN6222,Bonneville Transit Center Bay 10,-115.148589,36.164531
+SN6224,Bonneville Transit Center Bay 12,-115.148861,36.164124
+SN6226,Bonneville Transit Center Bay 14,-115.148513,36.164295
+SN6228,Bonneville Transit Center Bay 16,-115.148218,36.16473
+SN6238,NB Las Vegas after Warm Springs,-115.17218,36.057747
+SN6240,EB Reno after Las Vegas,-115.171886,36.097254
+SN6241,SB Fremont before Charleston,-115.11724,36.159067
+SN6242,SB Boulder after Sahara,-115.101331,36.145303
+SN6243,SB Boulder after Desert Inn,-115.082982,36.129023
+SN6245,SB Boulder before Tropicana,-115.052293,36.101742
+SN6246,SB Boulder after Sunset,-115.011283,36.065282
+SN6250,EB Paradise Hills after Compassion,-114.938967,35.98362
+SN6252,NB Boulder after Sunset,-115.01175,36.066316
+SN6253,SB Boulder before Lake Mead,-114.983017,36.04015
+SN6262,SB Water after Atlantic,-114.982646,36.032232
+SN6282,EB Stewart after 4th,-115.139844,36.171786
+SN6297,WB Warm Springs before Las Vegas,-115.170586,36.057032
+SN6327,NB Dean Martin before Blue Diamond,-115.187917,36.040575
+SN6347,WB Clark after 4th,-115.145109,36.165236
+SN6348,NB Eastern after Serene,-115.11833,36.021548
+SN6353,NB Losee after Craig,-115.116622,36.240744
+SN6355,EB Ann after Losee,-115.116227,36.263042
+SN6358,NLV VA Medical Ctr On Property Stop,-115.093497,36.28587
+SN6361,SB Losee after Ann,-115.117254,36.26171
+SN6370,WB Silverado Ranch after LV Blvd,-115.173084,36.013833
+SN6377,NB Eastern after Horizon Ridge,-115.10535,35.999924
+SN6380,UNLV Transit Center,-115.138594,36.10403
+SN6386,NB Stephanie after American Pacific,-115.046497,36.042365
+SN6390,WB Conestoga before Nevada State,-114.934043,35.993667
+SN6397,EB Bonneville after 4th,-115.145248,36.163692
+SN6398,SB Valley View after Sahara,-115.190946,36.143904
+SN6417,NB Fort Apache after Sunset,-115.297602,36.070876
+SN6421,NB Fort Apache after Tropicana,-115.297086,36.100982
+SN6425,NB Fort Apache after Flamingo,-115.296864,36.115412
+SN6429,NB Fort Apache after Desert Inn,-115.296937,36.130502
+SN6437,NB Buffalo after Lake Mead,-115.26022,36.196821
+SN6448,SB Buffalo after Lake Mead,-115.260497,36.195493
+SN6451,SB Fort Apache after Desert Inn,-115.297195,36.129445
+SN6456,SB Fort Apache after Tropicana,-115.297466,36.099241
+SN6471,EB Warm Springs after Durango,-115.278415,36.055382
+SN6479,NB Pavilion Ctr at Summerlin Centre,-115.330926,36.153043
+SN6480,NB Pavilion Ctr after Summerlin Ctr,-115.330929,36.153793
+SN6481,EB Cheyenne after Rampart,-115.278229,36.218501
+SN6501,NB Rancho after Sahara,-115.173019,36.146461
+SN6521,SB Main after Ogden,-115.146325,36.171951
+SN6524,NB Simmons after Cheyenne,-115.179328,36.218052
+SN6530,NB Main after Bridger,-115.147574,36.16963
+SN6534,NB Durango after Warm Springs,-115.279012,36.056323
+SN6535,NB Durango after Sunset,-115.279268,36.071285
+SN6536,SB Durango after Sunset,-115.279579,36.069895
+SN6537,SB Durango after Tropicana,-115.27941,36.099574
+SN6538,NB Durango after Sahara,-115.278929,36.145159
+SN6539,SB Durango after Sahara,-115.279116,36.143489
+SN6540,SB Durango after Charleston,-115.280356,36.158331
+SN6541,NB Buffalo before Cheyenne,-115.26029,36.217417
+SN6542,NB Durango after Cheyenne,-115.27867,36.219599
+SN6543,EB Sunset after Decatur,-115.207096,36.071612
+SN6544,SB Fort Apache after Sunset,-115.29796,36.068936
+SN6545,EB Sunset after Fort Apache,-115.297081,36.07006
+SN6547,WB Vegas after Durango,-115.279513,36.188734
+SN6548,EB Vegas after Mize,-115.277535,36.188572
+SN6549,WB Alta before Rampart,-115.287146,36.1665
+SN6551,RTC Mobility Training Ctr at SMF,-115.210341,36.070344
+SN6552,SSTT Exit,-115.16557,36.06841
+SN6635,EB Lake Mead after Rampart,-115.281372,36.198999
+SN6640,McCarran Airprt T3 On Property Stop,-115.136464,36.086905
+SN6646,SB Buffalo before Cheyenne,-115.260603,36.218997
+SN6647,SB Pecos before Flamingo,-115.101045,36.116032
+SN6650,NB Rainbow after Windmill,-115.243199,36.041849
+SN6651,SB Paradise after Warm Springs,-115.141027,36.056884
+SN6652,SB Maryland after Wigwam,-115.136333,36.034785
+SN6653,EB Horizon Ridge after Eastern,-115.103377,36.000115
+SN6654,SB Green Valley after Paseo Verde,-115.083518,36.01998
+SN6657,NB Maryland after Silverado Ranch,-115.136555,36.013705
+SN6658,NB Maryland after Wigwam,-115.135998,36.035846
+SN6659,NB Paradise before Warm Springs,-115.14074,36.056422
+SN6661,EB Galleria before Boulder,-115.018367,36.070887
+SN6671,SB Jones after Robindale,-115.225493,36.048733
+SN6683,EB Russell after Fort Apache,-115.296867,36.084995
+SN6688,OCallaghan Fed Hosp at Range Rd,-115.044202,36.246928
+SN6689,EB Tropicana before Fort Apache,-115.299776,36.099902
+SN6690,WB Russell after Fort Apache,-115.298264,36.085273
+SN6692,WB Galleria after Boulder,-115.018672,36.071137
+SN6694,NB Maryland after St Rose,-115.137117,35.992048
+SN6747,EB Patrick after Pioneer,-115.255316,36.077554
+SN6775,NB Pecos before Craig,-115.097131,36.23931
+SN6776,NB 5th after Rome,-115.134784,36.280362
+SN6777,WB Centennial after Commerce,-115.144982,36.276644
+SN6778,WB Carson before Las Vegas,-115.141041,36.168016
+SN6808,EB Bonneville before Casino Center,-115.14823,36.164963
+SN6809,EB Russell after Whitney Ranch,-115.052901,36.082052
+SN6824,EB Warm Springs after Woodside,-114.966229,36.050082
+SN6840,WB Lake Mead after Boulder,-114.982859,36.039211
+SN6861,SB Valley View after Tropicana,-115.189981,36.100476
+SN6865,NB Valley View after Tropicana,-115.189721,36.101452
+SN6867,NB Grnd Central at LV Prem Outl-Nor,-115.156495,36.163697
+SN6868,SB Decatur after Sunset,-115.208057,36.070945
+SN6876,SB Rainbow be before Windmill,-115.243567,36.042227
+SN6881,SB Jones after Tropicana,-115.225196,36.099175
+SN6886,SB Jones after Sunset,-115.224557,36.069849
+SN6896,NB Jones after Windmill,-115.225426,36.043165
+SN6900,NB Jones after Sunset,-115.224153,36.07156
+SN6907,NB Decatur after Elkhorn,-115.206465,36.291985
+SN6919,WB St Rose after Maryland,-115.137303,35.991005
+SN6921,SB Raiders after St Rose,-115.148325,35.981416
+SN6926,SB Chaparral before Volunteer,-115.148108,35.960432
+SN6930,EB Barbara after las Vegas Blvd,-115.172092,35.977221
+SN6932,SB Gilespie after Barbara,-115.163779,35.976887
+SN6937,NB Las Vegas after Volunteer,-115.172615,35.963467
+SN6938,EB Ann after Rainbow,-115.241214,36.262903
+SN6945,EB Ann after Decatur,-115.206486,36.261435
+SN6961,SB Lamb before Nexus,-115.080135,36.262322
+SN6966,NB Sloan before Tropical,-115.04311,36.266411
+SN6970,WB Centennial after Hollywood,-115.026181,36.276479
+SN6975,SB Sloan after Tropical,-115.043415,36.268255
+SN6981,NB Lamb after Nexus,-115.079654,36.262558
+SN6990,WB Ann after Losee,-115.118118,36.262482
+SN6996,WB Ann after Simmons,-115.180779,36.261767
+SN7006,NB Rainbow after Blue Diamond,-115.243317,36.024207
+SN7011,SB Ft Apache before Huntington Cove,-115.297294,36.037275
+SN7020,NB Ft Apache after Sherwood Greens,-115.296879,36.03749
+SN7022,SB Durango after Warm Springs,-115.279324,36.055071
+SN7029,NB Durango after Blue Diamond,-115.278942,36.021064
+SN7031,SB Durango after Agate,-115.27924,36.021808
+SN7045,WB Cactus after Decatur,-115.20837,35.998809
+SN7051,WB Cactus after Rainbow,-115.24446,35.998772
+SN7059,NB Buffalo after Gomer,-115.261478,36.012982
+SN7063,SB Durango after Blue Diamond,-115.279497,36.018962
+SN7074,NB Durango before Blue Diamond,-115.279079,36.019664
+SN7078,SB Buffalo after Gomer,-115.262096,36.011651
+SN7085,EB Cactus after Rainbow,-115.242681,35.998488
+SN7089,EB Cactus after Southern Highlands,-115.206715,35.998515
+SN7103,NB Decatur after Blue Diamond,-115.207653,36.034235
+SN7111,EB Tropical after Centennial Center,-115.263862,36.271883
+SN7115,NB Grand Montecito after Ace,-115.284142,36.294243
+SN7119,NB Fort Apache after Farm,-115.296701,36.299832
+SN7125,WB Skye Canyn Prk after Grand Canyn,-115.306896,36.314237
+SN7134,EB Farm after Fort Apache,-115.296217,36.299069
+SN7137,WB Deer Springs after Durango,-115.288651,36.284665
+SN7143,NB Hualapai after Deer Springs,-115.314734,36.285803
+SN7155,EB Deer Springs after Hualapai,-115.313791,36.284594
+SN7164,EB Cactus after Maryland,-115.135153,35.998927
+SN7169,WB Cactus after Maryland,-115.137766,35.999255
+SN7183,EB Horizon Ridge before Stephanie,-115.04811,36.021337
+SN7195,EB Horizon Ridge before Horizon,-114.993092,36.01221
+SN7197,WB Horizon Ridge after Horizon,-114.992434,36.011464
+SN7203,WB Horizon Ridge after Stephanie,-115.047857,36.021717
+SN7214,WB Paseo Verde after Green Valley,-115.084813,36.020308
+SN7218,EB Skye Canyn Prk after Grand Canyn,-115.305179,36.313895
+SN7238,NB Losee after Ann,-115.116842,36.263883
+SN7247,EB Starr before St Rose,-115.150789,35.983583
+SN7262,Water @ Army (N),-114.982868,36.032674
+SN20015,BTC Stop 1,-115.148675,36.164459
+SN20016,BTC Stop 2,-115.148675,36.164459
+IBMF,Simmons,-115.183407534029,36.2079838186147
+SMF,Sunset,-115.212370709344,36.0697631533766
